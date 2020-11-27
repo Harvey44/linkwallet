@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:id="@+id/rl">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:text="@string/sending"
+            android:textSize="14sp"
+            android:id="@+id/txt"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt2"
+            android:text="@string/cv"
+            android:layout_alignParentRight="true"
+            android:layout_marginEnd="10dp"
+            android:textSize="12sp"/>
+
+        <TextView
+            android:id="@+id/c_amt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt"
+            android:text="$4000"
+            android:textColor="#673AB7" />
+
+        <TextView
+            android:id="@+id/coin_amt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt2"
+            android:layout_alignParentRight="true"
+            android:layout_marginEnd="10dp"
+            android:text="0.11"
+            android:textColor="#673AB7" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rl"
+        android:layout_margin="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/trans_sum"
+            android:textColor="#000"
+            android:id="@+id/txt3"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt3"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/tick"
+            android:id="@+id/image"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+           android:id="@+id/txt4"
+            android:layout_toRightOf="@id/image"
+            android:layout_marginStart="10dp"
+            android:layout_below="@id/txt3"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="10dp"
+            android:text="Ethereum Wallet 1"
+            android:textColor="#000"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:id="@+id/v"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="10dp"
+            android:layout_below="@id/txt4"
+            android:background="@drawable/divider"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/v"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/tick"
+            android:id="@+id/image2"/>
+
+        <TextView
+            android:id="@+id/txt5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/v"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="10dp"
+            android:layout_toRightOf="@id/image2"
+            android:text="@string/trans_fee"
+            android:textColor="#000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/fee"
+            android:layout_below="@+id/v"
+            android:text="$200"
+            android:layout_toRightOf="@id/txt5"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginTop="20dp"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:id="@+id/v2"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/txt5"
+            android:background="@drawable/divider"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/v2"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/tick"
+            android:id="@+id/image3"/>
+
+        <TextView
+            android:id="@+id/txt6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/v2"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="10dp"
+            android:layout_toRightOf="@id/image2"
+            android:text="@string/rec_add"
+            android:textColor="#000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt6"
+            android:id="@+id/address"
+            android:layout_marginStart="35dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="#000"
+            android:layout_marginTop="5dp"
+            android:text="@string/sending"/>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:id="@+id/v3"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/address"
+            android:background="@drawable/divider"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/image4"
+            android:src="@drawable/tick"
+            android:layout_below="@+id/v3"
+            android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/v3"
+            android:layout_toRightOf="@id/image4"
+            android:text="@string/sending"
+            android:textColor="#000"
+            android:layout_marginStart="10dp"
+            android:id="@+id/txt7"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="10dp"/>
+
+        <Button
+            android:id="@+id/btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt7"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/chip2"
+            android:text="@string/pos2"
+            android:textAllCaps="false"
+            android:textColor="#FFF"
+            android:textSize="14sp" />
+
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

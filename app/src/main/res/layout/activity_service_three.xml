@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#FFF"
+    android:layout_height="match_parent"
+    tools:context=".Service_three">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/ll"
+        android:layout_margin="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            style="@style/TextAppearance.AppCompat.Title"
+            android:layout_margin="20dp"
+            android:text="@string/swp"
+            android:id="@+id/txt"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            android:layout_gravity="center"
+            android:layout_margin="25dp"
+            android:src="@drawable/undraw_three" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/nav_three"
+            android:layout_margin="25dp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:textColor="#2196F3"
+            android:textStyle="italic"
+            android:padding="10dp"
+            android:text="@string/serv_three"
+            android:layout_margin="15dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:id="@+id/btn"
+            android:textColor="#FFF"
+            android:textAllCaps="false"
+            android:background="@drawable/log_btn"
+            android:text="@string/cont"
+            android:layout_margin="20dp"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

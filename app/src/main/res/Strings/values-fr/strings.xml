@@ -1,0 +1,618 @@
+<resources>
+    <string name="app_name">STRING TRANSLATING ERROR</string>
+    <string name="wlc">STRING TRANSLATING ERROR</string>
+    <string name="landing">STRING TRANSLATING ERROR</string>
+    <string name="landing2">STRING TRANSLATING ERROR</string>
+    <string name="landing3">STRING TRANSLATING ERROR</string>
+    <string name="signupc">STRING TRANSLATING ERROR</string>
+    <string name="rec">STRING TRANSLATING ERROR</string>
+    <string name="signup">STRING TRANSLATING ERROR</string>
+    <string name="sign2">STRING TRANSLATING ERROR</string>
+    <string name="policy">STRING TRANSLATING ERROR</string>
+    <string name="sign3">STRING TRANSLATING ERROR</string>
+    <string name="hlog">STRING TRANSLATING ERROR</string>
+    <string name="login1">STRING TRANSLATING ERROR</string>
+    <string name="login2">STRING TRANSLATING ERROR</string>
+    <string name="login3">STRING TRANSLATING ERROR</string>
+    <string name="notyfy">STRING TRANSLATING ERROR</string>
+    <string name="share_app4">STRING TRANSLATING ERROR</string>
+    <string name="about4">STRING TRANSLATING ERROR</string>
+    <string name="share4">STRING TRANSLATING ERROR</string>
+    <string name="ve">STRING TRANSLATING ERROR</string>
+    <string name="ve2">STRING TRANSLATING ERROR</string>
+    <string name="ve3">STRING TRANSLATING ERROR</string>
+    <string name="rc">STRING TRANSLATING ERROR</string>
+    <string name="see_all">STRING TRANSLATING ERROR</string>
+    <string name="cb">STRING TRANSLATING ERROR</string>
+    <string name="fc">STRING TRANSLATING ERROR</string>
+    <string name="ys">STRING TRANSLATING ERROR</string>
+    <string name="yr">STRING TRANSLATING ERROR</string>
+    <string name="itn">STRING TRANSLATING ERROR</string>
+    <string name="emt">STRING TRANSLATING ERROR</string>
+    <string name="proceed">STRING TRANSLATING ERROR</string>
+    <string name="sp">STRING TRANSLATING ERROR</string>
+    <string name="sending">STRING TRANSLATING ERROR</string>
+    <string name="cv">STRING TRANSLATING ERROR</string>
+    <string name="pos2">Procéder à l'envoi</string>
+    <string name="done2">Terminé</string>
+    <string name="cl">Dans quelle langue devons-nous vous servir?</string>
+    <string name="swp">Suppléments</string>
+    <string name="serv_one">Link wallet stocke en toute sécurité votre crypto-monnaie, sélectionnez parmi les pièces disponibles répertoriées, créez un portefeuille avec un mot de passe fort pour commencer à négocier des crypto-monnaies. Le portefeuille Link offre également à ses utilisateurs la possibilité d'échanger des crypto-monnaies à un prix modique.</string>
+    <string name="serv_two">Nous proposons aux utilisateurs un moyen personnalisé de négocier rapidement et en toute sécurité de grandes tailles de blocs. Notre bureau de négociation se concentre sur plus que le trading Bitcoin OTC, nous pouvons prendre en charge les transactions cryptographiques à cryptographiques sur presque toutes les pièces répertoriées sur Link Wallet.</string>
+    <string name="serv_three">Link Wallet dispose d'une plate-forme de prêt instantané entièrement opérationnelle avec une expérience utilisateur transparente et une sécurité de niveau militaire avec un cryptage 256 bits.</string>
+    <string name="csv">Fonctionnalités actuelles</string>
+    <string name="csw">Échange de pièces</string>
+    <string name="serv">Prestations de service</string>
+    <string name="otc_one">Grand trading de blocs crypto OTC de crypto-monnaies</string>
+    <string name="fs">Règlement rapide</string>
+    <string name="fsn">Pas de tiers, sans tracas</string>
+    <string name="ptd">Trading personnalisé</string>
+    <string name="ptdn">1-1 Assistance par chat</string>
+    <string name="loan_one">Accès instantané au prêt crypto</string>
+    <string name="qd">Ligne de crédit</string>
+    <string name="qdn">Augmentez votre solde de trading pour une meilleure ligne de crédit</string>
+    <string name="ic">Crédit instantané</string>
+    <string name="icn">Aucune vérification de crédit</string>
+    <string name="swap">Échange de pièces</string>
+    <string name="sf">Permuter depuis</string>
+    <string name="st">Swap To</string>
+
+
+    <string name="header">Créez dès maintenant un portefeuille dynamique <b> Pay As You Go </b>. Aucun contrat requis.</string>
+    <string name="terms">En vous inscrivant, vous acceptez le dépositaire Onchain</string>
+    <string name="terms2">Conditions d'utilisation & amp; Tarification</string>
+    <string name="reg_already">Vous avez déjà un compte?</string>
+    <string name="reg_logintext">S'identifier</string>
+    <string name="currency">$</string>
+    <string name="help">Aide & amp; Soutien</string>
+    <string name="create"><u> Cliquez ici </u> pour créer vos portefeuilles!</string>
+
+    <!-- Reg   -->
+    <string name="hf">Prénom</string>
+    <string name="hl">Nom de famille</string>
+    <string name="hemail">Adresse e-mail (doit être vérifiée)</string>
+    <string name="hp">Mot de passe</string>
+    <string name="hp2">Confirmez le mot de passe</string>
+
+    <string name="select">S'il vous plaît sélectionnez votre pays</string>
+
+    <!-- Login  -->
+
+    <string name="need">Besoin d'un compte?</string>
+    <string name="sign">Inscription |</string>
+    <string name="nhelp">Besoin d'aide?</string>
+    <string name="log_email">Adresse électronique</string>
+    <string name="forgot">mot de passe oublié?</string>
+    <string name="login">S'identifier</string>
+
+    <!-- Receive  -->
+    <string name="share">Partagez votre adresse de portefeuille pour recevoir des paiements</string>
+    <string name="share2">PARTAGEZ VOTRE ADRESSE WALLET:</string>
+    <string name="copy">COPIER DANS LE PRESSE-PAPIER</string>
+    <string name="share3">PARTAGER L'ADRESSE</string>
+    <string name="scan">NUMÉRISER LE CODE QR</string>
+
+    <!-- Forgot Password  -->
+    <string name="forgot_p">Mot de passe oublié</string>
+    <string name="submit">Soumettre</string>
+    <string name="forgot_dets">Entrez votre adresse e-mail pour recevoir un e-mail avec le code de récupération</string>
+    <string name="back_login">Retour connexion</string>
+
+    <!-- Select coin  -->
+    <string name="select_coin">Sélectionnez une pièce</string>
+
+    <!-- Send  -->
+    <string name="trans_sum">récapitulatif des transactions</string>
+    <string name="w_name">Nom du portefeuille:</string>
+    <string name="send_amt">Montant :</string>
+    <string name="rec_add">Adresse de réception:</string>
+    <string name="trans_fee">Frais de transaction</string>
+    <string name="send">Envoyer</string>
+    <string name="cancel">Annuler</string>
+
+    <!-- Setting  -->
+    <string name="change_pwd">Modifiez votre mot de passe ici.</string>
+    <string name="change_pwd2">Changer le mot de passe</string>
+    <string name="build">1.0.0 (version 1)</string>
+    <string name="app_v">Version de l'application</string>
+    <string name="about">En savoir plus sur les services de dépositaire Onchain</string>
+    <string name="about2">À propos de Onchain Custodian</string>
+    <string name="fback">Envoyer un commentaire sur Onchain Custodian</string>
+    <string name="share_app">Partagez l'application Onchain Custodian</string>
+    <string name="fback2">Envoyer des commentaires</string>
+    <string name="share_app2">Partagez l'application Onchain Custodian avec vos amis et votre famille</string>
+    <string name="get_help">Obtenez de l'aide et les informations nécessaires</string>
+    <string name="view_info">Consultez vos informations personnelles ici.</string>
+    <string name="two_fa">Basculer pour activer ou désactiver 2FA</string>
+    <string name="enable">Activer l'authentification à 2 facteurs</string>
+    <string name="backup">Créez une phrase de sauvegarde pour plus de sécurité</string>
+    <string name="backup2">Créer une phrase de sauvegarde</string>
+    <string name="account">Paramètres du compte</string>
+    <string name="personal">Renseignements personnels</string>
+    <string name="pref">Préférences</string>
+    <string name="retrieve">Récupérer</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="lang">Changer de langue</string>
+    <string name="lang2">Sélectionnez une langue appropriée</string>
+    <string name="curr">Changer de devise</string>
+    <string name="curr2">Sélectionnez une autre devise</string>
+    <!-- Show_all -->
+    <string name="all">Tous les portefeuilles</string>
+    <string name="no_wallet">Aucun portefeuille disponible</string>
+    <string name="new_wallet">Cliquez ici pour créer un nouveau portefeuille</string>
+
+    <!-- Trans_info -->
+    <string name="date">Date:</string>
+    <string name="title">Titre</string>
+    <string name="txn">Identifiant Txn:</string>
+    <string name="view_trans">Afficher les détails de la transaction</string>
+    <string name="view_block">VOIR EN BLOCKCHAIN</string>
+    <string name="desc">La description:</string>
+
+    <!-- View_Noty -->
+    <string name="msg">Message</string>
+    <string name="sub">Matière :</string>
+    <string name="body">Corps du message :</string>
+
+    <!-- View_Wallet -->
+    <string name="wallet_name">Nom du portefeuille</string>
+    <string name="bal">Solde total</string>
+    <string name="trans">Vos transactions</string>
+    <string name="no_trans">Aucune transaction pour le moment.</string>
+    <string name="your_trans">Vos transactions apparaîtront ici.</string>
+
+    <!-- View_Wallet -->
+    <string name="enter_rec_code">Entrez le code de récupération</string>
+    <string name="enter_reset">Entrez le code de réinitialisation envoyé à votre courrier</string>
+    <string name="resend">Renvoyer le code</string>
+
+
+    <!-- Backup_Phrase -->
+    <string name="phrase">Phrase de sauvegarde</string>
+    <string name="backup_note">Copiez et stockez en toute sécurité votre phrase de sauvegarde. Il agit comme une clé pour récupérer vos fonds si vous ne pouvez pas accéder à votre appareil.Il ne peut pas être récupéré en cas de perte.</string>
+    <string name="do_not">Faites attention! Ne partagez pas votre phrase de sauvegarde avec qui que ce soit car elle peut être utilisée pour accéder à vos fonds.</string>
+
+    <!--Bottom_Sheet -->
+    <string name="setup">Comment souhaitez-vous configurer votre portefeuille?</string>
+    <string name="select_option">Sélectionnez une option en fonction de vos besoins et exigences de sécurité. La configuration avancée offre une sécurité améliorée et nécessitera des étapes supplémentaires dans le processus de signature.</string>
+    <string name="self_mng">Portefeuille chaud auto-géré</string>
+    <string name="c_wallet">Créez un portefeuille pour les transferts quotidiens et les petits soldes</string>
+    <string name="next">Prochain</string>
+
+
+    <string-array name="country_list" formatted="false" translatable="false">
+        <item>Country</item>
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>British Virgin Islands</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Canary Islands</item>
+        <item>Cape Verde</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Ceuta and Melilla</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo [DRC]</item>
+        <item>Congo [Republic]</item>
+        <item>Costa Rica</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Curaçao</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Côte d’Ivoire</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        <item>Europe</item>
+        <item>Faroe Islands</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>French Guiana</item>
+        <item>French Polynesia</item>
+        <item>Gabon</item>
+        <item>Gambia</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Greece</item>
+        <item>Greenland</item>
+        <item>Grenada</item>
+        <item>Guadeloupe</item>
+        <item>Guam</item>
+        <item>Guatemala</item>
+        <item>Guernsey</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Hong Kong</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Isle of Man</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jersey</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kiribati</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Laos</item>
+        <item>Latin America</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Macau</item>
+        <item>Macedonia [FYROM]</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marshall Islands</item>
+        <item>Martinique</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mayotte</item>
+        <item>Mexico</item>
+        <item>Micronesia</item>
+        <item>Moldova</item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montenegro</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Myanmar [Burma]</item>
+        <item>Namibia</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>New Caledonia</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>North Korea</item>
+        <item>Northern Mariana Islands</item>
+        <item>Norway</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>Palestine</item>
+        <item>Panama</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Puerto Rico</item>
+        <item>Qatar</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>Réunion</item>
+        <item>Saint Barthélemy</item>
+        <item>Saint Kitts and Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Saint Martin</item>
+        <item>Saint Vincent and the Grenadines</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Saudi Arabia</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Sint Maarten</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Solomon Islands</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Korea</item>
+        <item>South Sudan</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>Suriname</item>
+        <item>Swaziland</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>São Tomé and Príncipe</item>
+        <item>Taiwan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>Timor-Leste</item>
+        <item>Togo</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turks and Caicos Islands</item>
+        <item>U.S. Outlying Islands</item>
+        <item>U.S. Virgin Islands</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vanuatu</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Western Sahara</item>
+        <item>Yemen</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+        <item>Åland Islands</item>
+    </string-array>
+    <string-array name="coins" formatted="false" translatable="false">
+        <item>Bitcoin (BTC)</item>
+        <item>Ethereum (ETH)</item>
+        <item>Bitcoin Cash(BCH)</item>
+        <item>Litecoin (LTC)</item>
+        <item>Monero (XMR)</item>
+        <item>Ripple (XRP)</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="title_activity_basic">De base</string>
+
+    <!--Cancel_2fa -->
+    <string name="cancel_2fa">Désactiver l'authentificateur à 2 facteurs</string>
+    <string name="enter_2fa">Entrez votre code Google Authenticator</string>
+    <string name="enter_fa">Entrez le code d'authentification Google</string>
+
+    <!--Create_2fa -->
+    <string name="create_2fa">Détails de l'authentificateur à 2 facteurs</string>
+    <string name="install">Installez et lancez Google Authenticator sur votre téléphone. Vous pouvez l'obtenir sur iPhone App Store ou Google Play</string>
+    <string name="use">Utilisez Google Authenticator pour scanner le code QR ci-dessous</string>
+    <string name="connect">Vous pouvez également connecter votre application Google Authenticator avec le code ci-dessous</string>
+    <string name="your_code">Votre code</string>
+    <string name="type_2fa">Entrez votre code d'authentification à deux facteurs ci-dessous</string>
+    <string name="digit">Entrez le code à 6 chiffres</string>
+    <string name="back">Retourner</string>
+
+    <!--New_wallet -->
+    <string name="create_new">Créer un nouveau portefeuille</string>
+    <string name="name_wallet">Nommez votre portefeuille et cryptez votre portefeuille avec un mot de passe.</string>
+    <string name="w_pwd">Mot de passe du portefeuille</string>
+    <string name="w_pwd2">Confirmer le mot de passe du portefeuille</string>
+    <string name="w_note">Le mot de passe du portefeuille sera requis pour envoyer des transactions</string>
+    <string name="trans_h">HISTORIQUE DES TRANSACTIONS</string>
+
+    <!--Change Password -->
+    <string name="new_p">Entrez votre nouveau mot de passe</string>
+    <string name="current_p">Entrer votre mot de passe actuel</string>
+    <string name="cp">Changer le mot de passe</string>
+    <string name="cp2">Mot de passe actuel</string>
+    <string name="np">nouveau mot de passe</string>
+    <string name="cnp">Confirmer le nouveau mot de passe</string>
+
+    <!--Home-->
+    <string name="portfolio">PORTEFEUILLE</string>
+    <string name="tpv">Valeur totale du portefeuille</string>
+    <string name="nw">Nouveau portefeuille</string>
+    <string name="your_wallet">Ton portefeuille</string>
+    <string name="no_wallet2">Vous n’avez pas de portefeuille actuellement</string>
+    <string name="show_all">Afficher tous les portefeuilles</string>
+    <string name="search">Rechercher des portefeuilles</string>
+    <string name="all_coins">Toutes les pièces</string>
+
+    <!--Read-->
+    <string name="msgs">messages</string>
+    <string name="unread">Non lu</string>
+    <string name="read">Lis</string>
+
+    <!--Review-->
+    <string name="w_add">Adresse du portefeuille</string>
+    <string name="amount">Montant</string>
+    <string name="review">La revue</string>
+
+    <!--Profile_View-->
+    <string name="profile_info">Informations sur le profil</string>
+    <string name="fullname">Nom complet</string>
+    <string name="country">Pays</string>
+    <string name="close">Fermer</string>
+
+    <!--Sent-->
+    <string name="success">Transaction réussie !!</string>
+    <string name="done">Terminé</string>
+
+    <!--Set_new-->
+    <string name="new_p2">Créer un nouveau mot de passe</string>
+    <string name="save">Veuillez enregistrer votre nouveau mot de passe de connexion et votre mot de passe de portefeuille pour continuer</string>
+    <string name="enter_np">Entrez un nouveau mot de passe</string>
+    <string name="nwp">Nouveau mot de passe de portefeuille</string>
+
+    <!--Validate-->
+    <string name="val">Valider la phrase de sauvegarde</string>
+    <string name="enter_phrase">Veuillez entrer votre 12 phrase de sauvegarde avec des espaces pour récupérer vos fonds et vos transactions.</string>
+    <string name="henter">Entrez la phrase de sauvegarde (12 mots)</string>
+    <string name="cont">Continuer</string>
+    <string name="v_2fa">Vérifier 2FA (Google Authenticator)</string>
+    <string name="enter_email">Entrez le code de vérification envoyé à votre adresse e-mail</string>
+    <string name="vmail">Entrez le code de vérification de l'e-mail</string>
+    <string name="i_code">Code de vérification d'entrée</string>
+
+
+    <!--select_lang-->
+    <string name="select_lang">Choisir la langue</string>
+
+    <!--new-->
+    <string name="home">Accueil</string>
+    <string name="coins">Pièces de monnaie</string>
+    <string name="activity">Activité</string>
+    <string name="settings">Paramètres</string>
+    <string name="log">Se déconnecter</string>
+    <string name="send2">Envoyer</string>
+    <string name="receive">Recevoir</string>
+    <string name="create2">Créer</string>
+    <string name="crt">CRÉER UN COMPTE</string>
+    <string name="log2">S'IDENTIFIER</string>
+    <string name="recc">RECUPERER DES FONDS</string>
+    <string name="s_lang">Choisir la langue</string>
+
+
+    <!--new2-->
+    <string name="def">Anglais</string>
+    <string name="sc">Sélectionnez la devise</string>
+    <string name="usd">Dollar des États-Unis</string>
+    <string name="euro">euro</string>
+    <string name="sterling">Livre sterling</string>
+    <string name="yen">Le yuan chinois</string>
+    <string name="kyc">"Connaissez votre \ nCustomer"</string>
+    <string name="otc">- Formulaire d'échange OTC</string>
+
+    <string name="fname">Ton nom complet</string>
+    <string name="dob">Date de naissance</string>
+    <string name="ntn">Nationalité</string>
+    <string name="id">Type d'identité</string>
+    <string name="idn">Numéro d'identité</string>
+    <string name="ra">Adresse résidentielle</string>
+    <string name="mn">Numéro de portable</string>
+    <string name="otc_btn">Soumettre le formulaire</string>
+
+    <string name="otc2">"Commerce OTC \ nForm"</string>
+    <string name="att">Actif à échanger</string>
+    <string name="voa">Volume d'actif</string>
+    <string name="qup">Donnez votre prix</string>
+    <string name="ni">Identité nationale</string>
+    <string name="dl">Permis de conduire</string>
+    <string name="ip">Passeport international</string>
+    <string name="error_msg">est requis</string>
+    <string name="request">Demande envoyée avec succès</string>
+
+    <string name="loan">"Demande de prêt \ nFormulaire"</string>
+    <string name="cmp">Compagnie</string>
+    <string name="ln2">Demande de prêt</string>
+    <string name="ln3">Dernières nouvelles</string>
+    <string name="web">Site Internet</string>
+    <string name="tob">Type de commerce</string>
+    <string name="pos">Produits / services</string>
+    <string name="loan2">Montant du prêt</string>
+    <string name="psize">Taille du portefeuille</string>
+    <string name="bd">Courtier-Concessionnaire</string>
+    <string name="ex">Échange</string>
+    <string name="ico">ICO</string>
+    <string name="bw">Portefeuille professionnel</string>
+    <string name="cu">Garde</string>
+    <string name="cp3">Projet personnalisé</string>
+    <string name="ln">Prêt</string>
+    <string name="sc2">Veuillez sélectionner un pays</string>
+    <string name="tf">Commerce OTC</string>
+    <string name="en">Anglais</string>
+    <string name="zh">chinois</string>
+    <string name="ar">arabe</string>
+    <string name="pt">Portugais</string>
+    <string name="it">italien</string>
+    <string name="fr">français</string>
+    <string name="ko">coréen</string>
+    <string name="de">allemand</string>
+    <string name="ja">Japonais</string>
+    <string name="nl">néerlandais</string>
+    <string name="es">Espagnol</string>
+    <string name="ru">russe</string>
+    <string name="wh">STRING TRANSLATING ERROR</string>
+    <string name="ld">STRING TRANSLATING ERROR</string>
+    <string name="td">STRING TRANSLATING ERROR</string>
+    <string name="alc">Toutes les pièces</string>
+    <string name="status">Demande</string>
+    <string name="new_request">Soumettre une nouvelle demande</string>
+    <string name="lrh">Historique des demandes de prêt</string>
+    <string name="rtt">Demande d'échange</string>
+    <string name="note1">Votre demande de prêt est actuellement en cours d'examen, vous serez informé de tout changement via l'état de votre demande.</string>
+    <string name="note2">Votre demande de prêt est approuvée, veuillez consulter vos notifications pour plus d'informations concernant votre prêt.</string>
+    <string name="note3">Malheureusement, votre demande de prêt ne peut pas être accordée pour le moment, veuillez améliorer la valeur de votre portefeuille pour de meilleures chances d'approbation.</string>
+    <string name="note4">Votre demande d'échange est actuellement en cours d'examen, vous serez informé de tout changement via l'état de votre demande.</string>
+    <string name="note5">Votre demande d'échange est approuvée. Veuillez consulter vos notifications pour plus d'informations concernant votre demande d'échange.</string>
+    <string name="note6">Malheureusement, votre demande d'échange ne peut pas être effectuée actuellement, veuillez la soumettre à nouveau dans quelques heures.</string>
+    <string name="no_otc">Aucun enregistrement de demande commerciale !!</string>
+    <string name="no_loan">Aucun enregistrement de demande de prêt !!</string>
+    <string name="no_int">Pas de connexion Internet !!</string>
+    <string name="tfh">Histoire du commerce Otc</string>
+    <string name="wn">Nom du portefeuille</string>
+    <string name="tac">"En vous inscrivant, vous acceptez les conditions d'utilisation et les tarifs de Link Wallet"</string>
+
+
+    <string name="from">De :</string>
+    <string name="to">À :</string>
+    <string name="sh">Toutes les demandes d'échange</string>
+    <string name="ns">Aucun enregistrement de demande d'échange !!</string>
+    <string name="swc">Échange de pièce</string>
+    <string name="sctw">Sélectionnez les pièces à échanger</string>
+    <string name="stc">Pièce de pieu</string>
+    <string name="scts">Sélectionnez la pièce à miser</string>
+    <string name="stake">Pieu</string>
+   <string name="swc2">Échangez en toute sécurité vos crypto-monnaies</string>
+    <string name="mfee">Frais minimaux facturés</string>
+    <string name="scte">Stake Crypto pour augmenter votre portefeuille</string>
+    <string name="sth">Tous les enjeux</string>
+    <string name="nst">Aucun enregistrement de mise</string>
+
+
+</resources>

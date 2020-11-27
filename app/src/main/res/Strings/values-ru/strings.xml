@@ -1,0 +1,618 @@
+<resources>
+    <string name="app_name">Ссылка на кошелек</string>
+    <string name="wlc">Добро пожаловать</string>
+    <string name="landing">Пожалуйста, войдите или зарегистрируйтесь, чтобы продолжить использование Link Wallet</string>
+    <string name="landing2">Начните торговать криптовалютой прямо сейчас</string>
+    <string name="landing3">или войдите с помощью электронной почты</string>
+    <string name="signupc">ЗАРЕГИСТРИРОВАТЬСЯ</string>
+    <string name="rec">Вернуть средства</string>
+    <string name="signup">Зарегистрироваться</string>
+    <string name="sign2">Пожалуйста, зарегистрируйтесь, чтобы продолжить</string>
+    <string name="policy">Я согласен с Политикой конфиденциальности</string>
+    <string name="sign3"><u> Войдите в систему </u></string>
+    <string name="hlog">У вас уже есть учетная запись, <u> Войдите в систему </u></string>
+    <string name="login1">Войти сейчас</string>
+    <string name="login2">Пожалуйста, залогиньтесь для продолжения</string>
+    <string name="login3">У вас нет учетной записи, <u> Зарегистрируйтесь </u></string>
+    <string name="notyfy">Уведомления</string>
+    <string name="share_app4">Поделиться приложением Link Wallet</string>
+    <string name="about4">О кошельке Link</string>
+    <string name="share4">доля</string>
+    <string name="ve">Подтвердить Email</string>
+    <string name="ve2">Введите проверочный код Link Wallet, отправленный на вашу почту.</string>
+    <string name="ve3">Проверить</string>
+    <string name="rc">Отправить код еще раз</string>
+    <string name="see_all">Увидеть все</string>
+    <string name="cb">Вы должны согласиться с политикой конфиденциальности</string>
+    <string name="fc">Рекомендуемые валюты</string>
+    <string name="ys">Ты послал</string>
+    <string name="yr">Ты принят</string>
+    <string name="itn">В итоге</string>
+    <string name="emt">Вносить количество</string>
+    <string name="proceed">Продолжить</string>
+    <string name="sp">Введите адрес кошелька получателя и пароль вашего кошелька.</string>
+    <string name="sending">Вы отправляете</string>
+    <string name="cv">Текущая стоимость</string>
+    <string name="pos2">Приступить к отправке</string>
+    <string name="done2">Готово</string>
+    <string name="cl">На каком языке мы должны обслуживать вас?</string>
+    <string name="swp">Дополнительно</string>
+    <string name="serv_one">Кошелек Link надежно хранит вашу криптовалюту, выбирайте монеты из списка, создайте кошелек с надежным паролем, чтобы начать торговлю криптовалютами. Кошелек Link также предоставляет своим пользователям возможность обменивать криптовалюты за умеренную плату.</string>
+    <string name="serv_two">Мы предлагаем пользователям индивидуальный способ быстро и безопасно торговать большими блоками. Наш торговый отдел специализируется не только на внебиржевой торговле биткойнами, мы можем проводить сделки между криптовалютами и криптовалютами практически с любой монетой, указанной в Link Wallet.</string>
+    <string name="serv_three">Link Wallet имеет полностью работающую платформу мгновенного кредитования с удобным пользовательским интерфейсом и безопасностью военного уровня с 256-битным шифрованием.</string>
+    <string name="csv">Текущие особенности</string>
+    <string name="csw">Обмен монет</string>
+    <string name="serv">Сервисы</string>
+    <string name="otc_one">Крупная внебиржевая блочная торговля криптовалютами</string>
+    <string name="fs">Быстрый расчет</string>
+    <string name="fsn">Никаких третьих лиц, без проблем</string>
+    <string name="ptd">Персонализированная торговля</string>
+    <string name="ptdn">1-1 Поддержка в чате</string>
+    <string name="loan_one">Мгновенный доступ к крипто-займу</string>
+    <string name="qd">Кредитная линия</string>
+    <string name="qdn">Увеличьте свой торговый баланс для лучшей кредитной линии</string>
+    <string name="ic">Мгновенный кредит</string>
+    <string name="icn">Нет кредитных проверок</string>
+    <string name="swap">Обмен монет</string>
+    <string name="sf">Обменять с</string>
+    <string name="st">Поменять на</string>
+
+
+    <string name="header">Создайте горячий кошелек <b> Pay As You Go </b> прямо сейчас. Контракт не требуется.</string>
+    <string name="terms">Регистрируясь, вы соглашаетесь с Onchain Custodian \ 's</string>
+    <string name="terms2">Условия использования & amp; Ценообразование</string>
+    <string name="reg_already">Уже есть аккаунт?</string>
+    <string name="reg_logintext">Авторизоваться</string>
+    <string name="currency">$</string>
+    <string name="help">Помощь & amp; Служба поддержки</string>
+    <string name="create"><u> Нажмите здесь </u>, чтобы создать свои кошельки!</string>
+
+    <!-- Reg   -->
+    <string name="hf">Имя</string>
+    <string name="hl">Фамилия</string>
+    <string name="hemail">Адрес электронной почты (необходимо подтвердить)</string>
+    <string name="hp">пароль</string>
+    <string name="hp2">Подтвердите Пароль</string>
+
+    <string name="select">Пожалуйста, выберите вашу страну</string>
+
+    <!-- Login  -->
+
+    <string name="need">Нужна учетная запись?</string>
+    <string name="sign">Зарегистрироваться |</string>
+    <string name="nhelp">Нужна помощь?</string>
+    <string name="log_email">Адрес электронной почты</string>
+    <string name="forgot">Забыли пароль?</string>
+    <string name="login">Авторизоваться</string>
+
+    <!-- Receive  -->
+    <string name="share">Поделитесь адресом своего кошелька, чтобы получать платежи</string>
+    <string name="share2">ПОДЕЛИТЬСЯ АДРЕСОМ КОШЕЛЬКА:</string>
+    <string name="copy">СКОПИРОВАТЬ В БУФЕР ОБМЕНА</string>
+    <string name="share3">ПОДЕЛИТЬСЯ АДРЕСОМ</string>
+    <string name="scan">СКАНИРОВАТЬ QR-КОД</string>
+
+    <!-- Forgot Password  -->
+    <string name="forgot_p">Забыли пароль</string>
+    <string name="submit">Отправить</string>
+    <string name="forgot_dets">Введите свой адрес электронной почты, чтобы получить письмо с кодом восстановления</string>
+    <string name="back_login">Вернуться на страницу авторизации</string>
+
+    <!-- Select coin  -->
+    <string name="select_coin">Выбрать монету</string>
+
+    <!-- Send  -->
+    <string name="trans_sum">Сводка транзакции</string>
+    <string name="w_name">Имя кошелька:</string>
+    <string name="send_amt">Количество :</string>
+    <string name="rec_add">Адрес получения:</string>
+    <string name="trans_fee">Комиссия на перевод</string>
+    <string name="send">послать</string>
+    <string name="cancel">Отмена</string>
+
+    <!-- Setting  -->
+    <string name="change_pwd">Измените свой пароль здесь.</string>
+    <string name="change_pwd2">Сменить пароль</string>
+    <string name="build">1.0.0 (сборка 1)</string>
+    <string name="app_v">Версия приложения</string>
+    <string name="about">Узнайте о кастодиальных услугах Onchain</string>
+    <string name="about2">О Onchain Custodian</string>
+    <string name="fback">Отправить отзыв о Onchain Custodian</string>
+    <string name="share_app">Поделиться приложением Onchain Custodian</string>
+    <string name="fback2">Отправить отзыв</string>
+    <string name="share_app2">Поделитесь приложением Onchain Custodian с друзьями и семьей</string>
+    <string name="get_help">Получите помощь и необходимую информацию</string>
+    <string name="view_info">Просмотрите свою личную информацию здесь.</string>
+    <string name="two_fa">Переключитесь, чтобы включить или отключить 2FA</string>
+    <string name="enable">Включить двухфакторную аутентификацию</string>
+    <string name="backup">Создать резервную фразу для дополнительной безопасности</string>
+    <string name="backup2">Создать резервную фразу</string>
+    <string name="account">Настройки учетной записи</string>
+    <string name="personal">Персональные данные</string>
+    <string name="pref">Предпочтения</string>
+    <string name="retrieve">Получить</string>
+    <string name="logout">Выйти</string>
+    <string name="lang">Изменить язык</string>
+    <string name="lang2">Выберите подходящий язык</string>
+    <string name="curr">Изменить валюту</string>
+    <string name="curr2">Выберите альтернативную валюту</string>
+    <!-- Show_all -->
+    <string name="all">Все кошельки</string>
+    <string name="no_wallet">Нет доступного кошелька</string>
+    <string name="new_wallet">Нажмите здесь, чтобы создать новый кошелек</string>
+
+    <!-- Trans_info -->
+    <string name="date">Дата:</string>
+    <string name="title">заглавие</string>
+    <string name="txn">Txn ID:</string>
+    <string name="view_trans">Просмотр сведений о транзакции</string>
+    <string name="view_block">ПРОСМОТР В БЛОКЧЕЙНЕ</string>
+    <string name="desc">Описание:</string>
+
+    <!-- View_Noty -->
+    <string name="msg">Сообщение</string>
+    <string name="sub">Тема :</string>
+    <string name="body">Текст сообщения:</string>
+
+    <!-- View_Wallet -->
+    <string name="wallet_name">Имя кошелька</string>
+    <string name="bal">Итоговый баланс</string>
+    <string name="trans">Ваши транзакции</string>
+    <string name="no_trans">Сделок пока нет.</string>
+    <string name="your_trans">Ваши транзакции появятся здесь.</string>
+
+    <!-- View_Wallet -->
+    <string name="enter_rec_code">Введите код восстановления</string>
+    <string name="enter_reset">Введите код сброса, присланный на вашу почту</string>
+    <string name="resend">Отправить код еще раз</string>
+
+
+    <!-- Backup_Phrase -->
+    <string name="phrase">Резервная фраза</string>
+    <string name="backup_note">Скопируйте и надежно сохраните резервную фразу. Он действует как ключ для восстановления ваших средств, если вы не можете получить доступ к своему устройству. Его невозможно восстановить в случае утери.</string>
+    <string name="do_not">Быть осторожен! Не сообщайте никому свою резервную фразу, так как она может быть использована для доступа к вашим средствам.</string>
+
+    <!--Bottom_Sheet -->
+    <string name="setup">Как вы хотите настроить свой кошелек?</string>
+    <string name="select_option">Выберите вариант в зависимости от ваших потребностей и требований безопасности. Расширенная настройка обеспечивает повышенную безопасность и потребует дополнительных шагов в процессе подписания.</string>
+    <string name="self_mng">Самоуправляемый горячий кошелек</string>
+    <string name="c_wallet">Создайте кошелек для повседневных переводов и небольших остатков</string>
+    <string name="next">следующий</string>
+
+
+    <string-array name="country_list" formatted="false" translatable="false">
+        <item>Country</item>
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>British Virgin Islands</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Canary Islands</item>
+        <item>Cape Verde</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Ceuta and Melilla</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo [DRC]</item>
+        <item>Congo [Republic]</item>
+        <item>Costa Rica</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Curaçao</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Côte d’Ivoire</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        <item>Europe</item>
+        <item>Faroe Islands</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>French Guiana</item>
+        <item>French Polynesia</item>
+        <item>Gabon</item>
+        <item>Gambia</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Greece</item>
+        <item>Greenland</item>
+        <item>Grenada</item>
+        <item>Guadeloupe</item>
+        <item>Guam</item>
+        <item>Guatemala</item>
+        <item>Guernsey</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Hong Kong</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Isle of Man</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jersey</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kiribati</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Laos</item>
+        <item>Latin America</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Macau</item>
+        <item>Macedonia [FYROM]</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marshall Islands</item>
+        <item>Martinique</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mayotte</item>
+        <item>Mexico</item>
+        <item>Micronesia</item>
+        <item>Moldova</item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montenegro</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Myanmar [Burma]</item>
+        <item>Namibia</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>New Caledonia</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>North Korea</item>
+        <item>Northern Mariana Islands</item>
+        <item>Norway</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>Palestine</item>
+        <item>Panama</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Puerto Rico</item>
+        <item>Qatar</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>Réunion</item>
+        <item>Saint Barthélemy</item>
+        <item>Saint Kitts and Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Saint Martin</item>
+        <item>Saint Vincent and the Grenadines</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Saudi Arabia</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Sint Maarten</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Solomon Islands</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Korea</item>
+        <item>South Sudan</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>Suriname</item>
+        <item>Swaziland</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>São Tomé and Príncipe</item>
+        <item>Taiwan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>Timor-Leste</item>
+        <item>Togo</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turks and Caicos Islands</item>
+        <item>U.S. Outlying Islands</item>
+        <item>U.S. Virgin Islands</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vanuatu</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Western Sahara</item>
+        <item>Yemen</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+        <item>Åland Islands</item>
+    </string-array>
+    <string-array name="coins" formatted="false" translatable="false">
+        <item>Bitcoin (BTC)</item>
+        <item>Ethereum (ETH)</item>
+        <item>Bitcoin Cash(BCH)</item>
+        <item>Litecoin (LTC)</item>
+        <item>Monero (XMR)</item>
+        <item>Ripple (XRP)</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Привет пустой фрагмент</string>
+    <string name="title_activity_basic">Базовый</string>
+
+    <!--Cancel_2fa -->
+    <string name="cancel_2fa">Отключить двухфакторный аутентификатор</string>
+    <string name="enter_2fa">Введите свой код Google Authenticator</string>
+    <string name="enter_fa">Введите код Google Authenticator</string>
+
+    <!--Create_2fa -->
+    <string name="create_2fa">Подробная информация о двухфакторном аутентификаторе</string>
+    <string name="install">Установите и запустите Google Authenticator на своем телефоне. Вы можете получить его в iPhone App Store или Google Play.</string>
+    <string name="use">Используйте Google Authenticator для сканирования приведенного ниже QR-кода.</string>
+    <string name="connect">Вы также можете подключить приложение Google Authenticator с помощью кода ниже</string>
+    <string name="your_code">Ваш код</string>
+    <string name="type_2fa">Введите свой код двухфакторной аутентификации ниже</string>
+    <string name="digit">Введите 6-значный код</string>
+    <string name="back">Вернитесь назад</string>
+
+    <!--New_wallet -->
+    <string name="create_new">Создать новый кошелек</string>
+    <string name="name_wallet">Назовите свой кошелек и зашифруйте его паролем.</string>
+    <string name="w_pwd">Пароль кошелька</string>
+    <string name="w_pwd2">Подтвердите пароль кошелька</string>
+    <string name="w_note">Пароль кошелька потребуется для отправки транзакций</string>
+    <string name="trans_h">ИСТОРИЯ СДЕЛОК</string>
+
+    <!--Change Password -->
+    <string name="new_p">Введите ваш новый пароль</string>
+    <string name="current_p">введи свой текущий пароль</string>
+    <string name="cp">Сменить пароль</string>
+    <string name="cp2">действующий пароль</string>
+    <string name="np">Новый пароль</string>
+    <string name="cnp">Подтвердите новый пароль</string>
+
+    <!--Home-->
+    <string name="portfolio">ПОРТФОЛИО</string>
+    <string name="tpv">Общая стоимость портфеля</string>
+    <string name="nw">Новый кошелек</string>
+    <string name="your_wallet">Ваш кошелек</string>
+    <string name="no_wallet2">У вас сейчас нет кошелька</string>
+    <string name="show_all">Показать все кошельки</string>
+    <string name="search">Поиск кошельков</string>
+    <string name="all_coins">Все монеты</string>
+
+    <!--Read-->
+    <string name="msgs">Сообщения</string>
+    <string name="unread">Непрочитанный</string>
+    <string name="read">Читать</string>
+
+    <!--Review-->
+    <string name="w_add">Адрес кошелька</string>
+    <string name="amount">Количество</string>
+    <string name="review">Обзор</string>
+
+    <!--Profile_View-->
+    <string name="profile_info">информация профиля</string>
+    <string name="fullname">ФИО</string>
+    <string name="country">Страна</string>
+    <string name="close">близко</string>
+
+    <!--Sent-->
+    <string name="success">Транзакция успешна !!</string>
+    <string name="done">Готово</string>
+
+    <!--Set_new-->
+    <string name="new_p2">Создать новый пароль</string>
+    <string name="save">Чтобы продолжить, сохраните новый пароль для входа и пароль кошелька.</string>
+    <string name="enter_np">Введите новый пароль</string>
+    <string name="nwp">Новый пароль кошелька</string>
+
+    <!--Validate-->
+    <string name="val">Проверить резервную фразу</string>
+    <string name="enter_phrase">Пожалуйста, введите ваши 12 резервных фраз с пробелами для восстановления ваших средств и транзакций.</string>
+    <string name="henter">Введите резервную фразу (12 слов)</string>
+    <string name="cont">Продолжать</string>
+    <string name="v_2fa">Подтвердите 2FA (Google Authenticator)</string>
+    <string name="enter_email">Введите проверочный код, отправленный на ваш электронный адрес</string>
+    <string name="vmail">Введите код подтверждения электронной почты</string>
+    <string name="i_code">Введите проверочный код</string>
+
+
+    <!--select_lang-->
+    <string name="select_lang">Выберите язык</string>
+
+    <!--new-->
+    <string name="home">Домой</string>
+    <string name="coins">Монеты</string>
+    <string name="activity">Деятельность</string>
+    <string name="settings">Настройки</string>
+    <string name="log">Выйти</string>
+    <string name="send2">послать</string>
+    <string name="receive">Получить</string>
+    <string name="create2">Создайте</string>
+    <string name="crt">РЕГИСТРАЦИЯ</string>
+    <string name="log2">АВТОРИЗОВАТЬСЯ</string>
+    <string name="recc">ВОССТАНОВЛЕНИЕ СРЕДСТВ</string>
+    <string name="s_lang">Выберите язык</string>
+
+
+    <!--new2-->
+    <string name="def">английский</string>
+    <string name="sc">Выберите валюту</string>
+    <string name="usd">Доллар США</string>
+    <string name="euro">Евро</string>
+    <string name="sterling">Фунт стерлингов</string>
+    <string name="yen">Китайский юань</string>
+    <string name="kyc">"Знай своего \ nКлиента"</string>
+    <string name="otc">- Форма внебиржевой торговли</string>
+
+    <string name="fname">Ваше полное имя</string>
+    <string name="dob">Дата рождения</string>
+    <string name="ntn">Национальность</string>
+    <string name="id">Тип идентификации</string>
+    <string name="idn">Идентификационный номер</string>
+    <string name="ra">Адрес проживания</string>
+    <string name="mn">Мобильный номер</string>
+    <string name="otc_btn">Представить форму</string>
+
+    <string name="otc2">«Внебиржевая торговля \ nForm»</string>
+    <string name="att">Актив для торговли</string>
+    <string name="voa">Объем актива</string>
+    <string name="qup">Укажите вашу цену</string>
+    <string name="ni">Национальная идентичность</string>
+    <string name="dl">Водительское удостоверение</string>
+    <string name="ip">Заграничный паспорт</string>
+    <string name="error_msg">необходимо</string>
+    <string name="request">Запрос успешно отправлен</string>
+
+    <string name="loan">"Заявка на ссуду \ nФорма"</string>
+    <string name="cmp">Компания</string>
+    <string name="ln2">Запрос на получение кредита</string>
+    <string name="ln3">Последние новости</string>
+    <string name="web">Интернет сайт</string>
+    <string name="tob">Тип бизнеса</string>
+    <string name="pos">Продукт / Услуги</string>
+    <string name="loan2">Величина займа</string>
+    <string name="psize">Размер портфеля</string>
+    <string name="bd">Брокер Дилер</string>
+    <string name="ex">Обмен</string>
+    <string name="ico">ICO</string>
+    <string name="bw">Бизнес-кошелек</string>
+    <string name="cu">Опека</string>
+    <string name="cp3">Индивидуальный проект</string>
+    <string name="ln">Кредит</string>
+    <string name="sc2">Пожалуйста, выберите страну</string>
+    <string name="tf">Внебиржевая торговля</string>
+    <string name="en">английский</string>
+    <string name="zh">китайский язык</string>
+    <string name="ar">арабский</string>
+    <string name="pt">португальский</string>
+    <string name="it">Итальянский</string>
+    <string name="fr">французский язык</string>
+    <string name="ko">корейский язык</string>
+    <string name="de">Немецкий</string>
+    <string name="ja">японский язык</string>
+    <string name="nl">нидерландский язык</string>
+    <string name="es">испанский</string>
+    <string name="ru">русский</string>
+    <string name="wh">Как мы помогаем</string>
+    <string name="ld">Ваше предложение ссуды будет основано на текущей стоимости вашего портфеля. Дополнительные предложения автоматически и мгновенно доступны после оценки стоимости вашего портфеля.</string>
+    <string name="td">Onchain Custodian неизменно называют одним из лучших мест для внебиржевых сделок благодаря нашему превосходному обслуживанию, низким комиссиям, универсальным вариантам финансирования и строгим стандартам безопасности. Заполните форму и приступайте к работе.</string>
+    <string name="alc">Все монеты</string>
+    <string name="status">Запрос</string>
+    <string name="new_request">Отправить новый запрос</string>
+    <string name="lrh">История запросов на получение кредита</string>
+    <string name="rtt">Запрос на обмен</string>
+    <string name="note1">Ваш запрос на ссуду в настоящее время рассматривается, о любых изменениях вы будете уведомлены в статусе вашего запроса.</string>
+    <string name="note2">Ваш запрос на ссуду одобрен. Просмотрите свои уведомления для получения дополнительной информации о ссуде.</string>
+    <string name="note3">К сожалению, ваш запрос на ссуду не может быть удовлетворен в данный момент, пожалуйста, улучшите стоимость вашего портфеля, чтобы повысить шансы на одобрение.</string>
+    <string name="note4">Ваш запрос на обмен в настоящее время находится на рассмотрении, вы будете уведомлены о любых изменениях в статусе вашего запроса.</string>
+    <string name="note5">Ваш торговый запрос одобрен, пожалуйста, просмотрите свои уведомления для получения дополнительной информации о вашем торговом запросе.</string>
+    <string name="note6">К сожалению, ваш запрос на обмен в настоящее время не может быть выполнен, пожалуйста, отправьте запрос повторно через несколько часов.</string>
+    <string name="no_otc">Нет записей о торговых запросах !!</string>
+    <string name="no_loan">STRING TRANSLATING ERROR</string>
+    <string name="no_int">Нет соединения с интернетом !!</string>
+    <string name="tfh">История внебиржевой торговли</string>
+    <string name="wn">Имя кошелька</string>
+    <string name="tac">«Регистрируясь, вы соглашаетесь с Условиями использования и ценами Link Wallet»</string>
+
+
+    <string name="from">Из :</string>
+    <string name="to">Кому:</string>
+    <string name="sh">Все запросы на обмен</string>
+    <string name="ns">Нет записей о запросах на обмен !!</string>
+    <string name="swc">Обмен монет</string>
+    <string name="sctw">Выберите монеты для обмена</string>
+    <string name="stc">Ставка монеты</string>
+    <string name="scts">Выберите монету для ставки</string>
+    <string name="stake">Ставка</string>
+   <string name="swc2">Безопасно обменивайте свои криптовалюты</string>
+    <string name="mfee">Минимальная комиссия</string>
+    <string name="scte">Сделайте ставку на криптовалюту, чтобы увеличить свой портфель</string>
+    <string name="sth">Все ставки</string>
+    <string name="nst">Нет записей по ставкам</string>
+
+
+</resources>

@@ -1,0 +1,618 @@
+<resources>
+    <string name="app_name">Link Wallet</string>
+    <string name="wlc">Welkom</string>
+    <string name="landing">Log in of meld u aan om Link Wallet te blijven gebruiken</string>
+    <string name="landing2">Begin nu met het handelen in cryptovaluta</string>
+    <string name="landing3">of log in met e-mail</string>
+    <string name="signupc">INSCHRIJVEN</string>
+    <string name="rec">Krijg geld terug</string>
+    <string name="signup">Inschrijven</string>
+    <string name="sign2">Meld u aan om door te gaan</string>
+    <string name="policy">Ik ga akkoord met het privacybeleid</string>
+    <string name="sign3"><u> Doorgaan met inloggen </u></string>
+    <string name="hlog">Heb al een account, <u> Doorgaan met inloggen </u></string>
+    <string name="login1">Log nu in</string>
+    <string name="login2">Log in om door te gaan</string>
+    <string name="login3">Heb geen account, <u> Aanmelden </u></string>
+    <string name="notyfy">Meldingen</string>
+    <string name="share_app4">Deel de Link Wallet-app</string>
+    <string name="about4">Over Link Wallet</string>
+    <string name="share4">Delen</string>
+    <string name="ve">Verifieer Email</string>
+    <string name="ve2">Voer de Link Wallet-verificatiecode in die naar uw e-mail is verzonden.</string>
+    <string name="ve3">Verifiëren</string>
+    <string name="rc">Code nogmaals versturen</string>
+    <string name="see_all">Alles zien</string>
+    <string name="cb">U moet akkoord gaan met het privacybeleid</string>
+    <string name="fc">Uitgelichte valuta\'s</string>
+    <string name="ys">Jij verzond</string>
+    <string name="yr">Jij ontving</string>
+    <string name="itn">In totaal</string>
+    <string name="emt">Voer een bedrag in</string>
+    <string name="proceed">Doorgaan</string>
+    <string name="sp">Voer het portemonnee-adres van de ontvanger en uw portemonnee-wachtwoord in</string>
+    <string name="sending">U verzendt</string>
+    <string name="cv">Huidige waarde</string>
+    <string name="pos2">Ga verder met verzenden</string>
+    <string name="done2">Gedaan</string>
+    <string name="cl">In welke taal moeten we u van dienst zijn?</string>
+    <string name="swp">Extra\'s</string>
+    <string name="serv_one">Link wallet slaat uw cryptocurrency veilig op, maak een keuze uit de beschikbare munten, maak een wallet met een sterk wachtwoord om te beginnen met handelen in cryptocurrencies. Link-portemonnee biedt zijn gebruikers ook de mogelijkheid om tegen een bescheiden vergoeding cryptocurrencies te ruilen.</string>
+    <string name="serv_two">We bieden gebruikers een gepersonaliseerde manier om snel en veilig grote blokgroottes te verhandelen. Onze tradingdesk richt zich op meer dan alleen Bitcoin OTC-handel, we kunnen crypto-naar-crypto-transacties verwerken op bijna elke munt die op Link Wallet wordt vermeld.</string>
+    <string name="serv_three">Link Wallet heeft een volledig operationeel platform voor instant lenen met een naadloze gebruikerservaring en beveiliging van militaire kwaliteit met 256-bits codering.</string>
+    <string name="csv">Huidige kenmerken</string>
+    <string name="csw">Munten wisselen</string>
+    <string name="serv">Diensten</string>
+    <string name="otc_one">Grote Crypto OTC-blokkering van cryptocurrencies</string>
+    <string name="fs">Snelle afwikkeling</string>
+    <string name="fsn">Geen derde partij, probleemloos</string>
+    <string name="ptd">Gepersonaliseerd handelen</string>
+    <string name="ptdn">1-1 Chatondersteuning</string>
+    <string name="loan_one">Directe toegang tot cryptolening</string>
+    <string name="qd">Kredietlijn</string>
+    <string name="qdn">Verhoog uw handelssaldo voor een betere kredietlimiet</string>
+    <string name="ic">Direct krediet</string>
+    <string name="icn">Geen kredietcontroles</string>
+    <string name="swap">Munten wisselen</string>
+    <string name="sf">Wisselen van</string>
+    <string name="st">Wissel naar</string>
+
+
+    <string name="header">Maak nu een <b> Pay As You Go </b> hot wallet. Geen contract vereist.</string>
+    <string name="terms">Door te registreren, gaat u akkoord met Link Wallet\'s</string>
+    <string name="terms2">Gebruiksvoorwaarden &amp; Prijsstelling</string>
+    <string name="reg_already">Heb je al een account?</string>
+    <string name="reg_logintext">Log in</string>
+    <string name="currency">$</string>
+    <string name="help">Help &amp; Ondersteuning</string>
+    <string name="create"><u> Klik hier </u> om uw portemonnee te maken!</string>
+
+    <!-- Reg   -->
+    <string name="hf">Voornaam</string>
+    <string name="hl">Achternaam</string>
+    <string name="hemail">E-mailadres (moet worden geverifieerd)</string>
+    <string name="hp">Wachtwoord</string>
+    <string name="hp2">bevestig wachtwoord</string>
+
+    <string name="select">Selecteer uw land alstublieft</string>
+
+    <!-- Login  -->
+
+    <string name="need">Een account nodig?</string>
+    <string name="sign">Aanmelden |</string>
+    <string name="nhelp">Hulp nodig?</string>
+    <string name="log_email">E-mailadres</string>
+    <string name="forgot">Wachtwoord vergeten?</string>
+    <string name="login">Log in</string>
+
+    <!-- Receive  -->
+    <string name="share">Deel uw portefeuilleadres om betalingen te ontvangen</string>
+    <string name="share2">DEEL JE WALLET-ADRES:</string>
+    <string name="copy">KOPIEER NAAR KLEMBORD</string>
+    <string name="share3">DEEL ADRES</string>
+    <string name="scan">SCAN QR-CODE</string>
+
+    <!-- Forgot Password  -->
+    <string name="forgot_p">Wachtwoord vergeten</string>
+    <string name="submit">Verzenden</string>
+    <string name="forgot_dets">Voer uw e-mailadres in om een e-mail met herstelcode te ontvangen</string>
+    <string name="back_login">Terug naar Inloggen</string>
+
+    <!-- Select coin  -->
+    <string name="select_coin">Selecteer Munt</string>
+
+    <!-- Send  -->
+    <string name="trans_sum">Transactieoverzicht</string>
+    <string name="w_name">Portemonnee Naam:</string>
+    <string name="send_amt">Bedrag:</string>
+    <string name="rec_add">Ontvangend adres:</string>
+    <string name="trans_fee">Transactiekosten</string>
+    <string name="send">Sturen</string>
+    <string name="cancel">Annuleer</string>
+
+    <!-- Setting  -->
+    <string name="change_pwd">Wijzig hier uw wachtwoord.</string>
+    <string name="change_pwd2">Wachtwoord wijzigen</string>
+    <string name="build">1.0.0 (build 1)</string>
+    <string name="app_v">App versie</string>
+    <string name="about">Lees meer over Link Wallet Services</string>
+    <string name="about2">Over Link Wallet</string>
+    <string name="fback">Stuur een feedback over Link Wallet</string>
+    <string name="share_app">Deel de Link Wallet App</string>
+    <string name="fback2">Feedback verzenden</string>
+    <string name="share_app2">Deel de Link Wallet-app met vrienden en familie</string>
+    <string name="get_help">Krijg hulp en benodigde informatie</string>
+    <string name="view_info">Bekijk hier uw persoonlijke gegevens.</string>
+    <string name="two_fa">Schakel om 2FA in of uit te schakelen</string>
+    <string name="enable">Schakel 2-factorenauthenticatie in</string>
+    <string name="backup">Maak een back-upzin voor extra veiligheid</string>
+    <string name="backup2">Maak een back-upzin</string>
+    <string name="account">Account instellingen</string>
+    <string name="personal">Persoonlijke informatie</string>
+    <string name="pref">Voorkeuren</string>
+    <string name="retrieve">Ophalen</string>
+    <string name="logout">Uitloggen</string>
+    <string name="lang">Verander taal</string>
+    <string name="lang2">Kies een geschikte taal</string>
+    <string name="curr">Verander valuta</string>
+    <string name="curr2">Selecteer een alternatieve valuta</string>
+    <!-- Show_all -->
+    <string name="all">Alle portemonnees</string>
+    <string name="no_wallet">Geen portemonnee beschikbaar</string>
+    <string name="new_wallet">Klik hier om een nieuwe portemonnee aan te maken</string>
+
+    <!-- Trans_info -->
+    <string name="date">Datum:</string>
+    <string name="title">Titel</string>
+    <string name="txn">Txn-ID:</string>
+    <string name="view_trans">Bekijk transactiegegevens</string>
+    <string name="view_block">MENING IN BLOCKCHAIN</string>
+    <string name="desc">Omschrijving:</string>
+
+    <!-- View_Noty -->
+    <string name="msg">Bericht</string>
+    <string name="sub">Onderwerp:</string>
+    <string name="body">Bericht lichaam :</string>
+
+    <!-- View_Wallet -->
+    <string name="wallet_name">Portemonnee naam</string>
+    <string name="bal">Eindbalans</string>
+    <string name="trans">Uw transacties</string>
+    <string name="no_trans">Nog geen transacties.</string>
+    <string name="your_trans">Uw transacties worden hier weergegeven.</string>
+
+    <!-- View_Wallet -->
+    <string name="enter_rec_code">Voer de herstelcode in</string>
+    <string name="enter_reset">Voer de resetcode in die naar uw e-mail is verzonden</string>
+    <string name="resend">Code nogmaals versturen</string>
+
+
+    <!-- Backup_Phrase -->
+    <string name="phrase">Back-upzin</string>
+    <string name="backup_note">Kopieer en bewaar uw reservekopie veilig. Het fungeert als een sleutel om uw geld terug te krijgen als u geen toegang heeft tot uw apparaat. Het kan niet worden hersteld als het verloren gaat.</string>
+    <string name="do_not">Doe voorzichtig! Deel uw reservefrase met niemand, aangezien deze kan worden gebruikt om toegang te krijgen tot uw geld.</string>
+
+    <!--Bottom_Sheet -->
+    <string name="setup">Hoe wil je je portemonnee opzetten?</string>
+    <string name="select_option">Selecteer een optie op basis van uw behoeften en beveiligingsvereisten. Geavanceerde installatie biedt verbeterde beveiliging en vereist aanvullende stappen in het ondertekeningsproces.</string>
+    <string name="self_mng">Zelfbeheerde Hot Wallet</string>
+    <string name="c_wallet">Creëer een portemonnee voor dagelijkse overschrijvingen en kleine saldi</string>
+    <string name="next">De volgende</string>
+
+
+    <string-array name="country_list" formatted="false" translatable="false">
+        <item>Country</item>
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>British Virgin Islands</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Canary Islands</item>
+        <item>Cape Verde</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Ceuta and Melilla</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo [DRC]</item>
+        <item>Congo [Republic]</item>
+        <item>Costa Rica</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Curaçao</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Côte d’Ivoire</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        <item>Europe</item>
+        <item>Faroe Islands</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>French Guiana</item>
+        <item>French Polynesia</item>
+        <item>Gabon</item>
+        <item>Gambia</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Greece</item>
+        <item>Greenland</item>
+        <item>Grenada</item>
+        <item>Guadeloupe</item>
+        <item>Guam</item>
+        <item>Guatemala</item>
+        <item>Guernsey</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Hong Kong</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Isle of Man</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jersey</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kiribati</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Laos</item>
+        <item>Latin America</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Macau</item>
+        <item>Macedonia [FYROM]</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marshall Islands</item>
+        <item>Martinique</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mayotte</item>
+        <item>Mexico</item>
+        <item>Micronesia</item>
+        <item>Moldova</item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montenegro</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Myanmar [Burma]</item>
+        <item>Namibia</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>New Caledonia</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>North Korea</item>
+        <item>Northern Mariana Islands</item>
+        <item>Norway</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>Palestine</item>
+        <item>Panama</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Puerto Rico</item>
+        <item>Qatar</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>Réunion</item>
+        <item>Saint Barthélemy</item>
+        <item>Saint Kitts and Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Saint Martin</item>
+        <item>Saint Vincent and the Grenadines</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Saudi Arabia</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Sint Maarten</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Solomon Islands</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Korea</item>
+        <item>South Sudan</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>Suriname</item>
+        <item>Swaziland</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>São Tomé and Príncipe</item>
+        <item>Taiwan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>Timor-Leste</item>
+        <item>Togo</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turks and Caicos Islands</item>
+        <item>U.S. Outlying Islands</item>
+        <item>U.S. Virgin Islands</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vanuatu</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Western Sahara</item>
+        <item>Yemen</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+        <item>Åland Islands</item>
+    </string-array>
+    <string-array name="coins" formatted="false" translatable="false">
+        <item>Bitcoin (BTC)</item>
+        <item>Ethereum (ETH)</item>
+        <item>Bitcoin Cash(BCH)</item>
+        <item>Litecoin (LTC)</item>
+        <item>Monero (XMR)</item>
+        <item>Ripple (XRP)</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hallo leeg fragment</string>
+    <string name="title_activity_basic">Basic</string>
+
+    <!--Cancel_2fa -->
+    <string name="cancel_2fa">Schakel 2-Factor Authenticator uit</string>
+    <string name="enter_2fa">Voer uw Google Authenticator-code in</string>
+    <string name="enter_fa">Voer de Google Authenticator-code in</string>
+
+    <!--Create_2fa -->
+    <string name="create_2fa">Details van 2-factorenauthenticatie</string>
+    <string name="install">Installeer en start Google Authenticator op uw telefoon. Je kunt het downloaden via de iPhone App Store of Google play</string>
+    <string name="use">Gebruik Google Authenticator om de onderstaande QR-code te scannen</string>
+    <string name="connect">U kunt ook uw Google Authenticator-app verbinden met de onderstaande code</string>
+    <string name="your_code">Jouw code</string>
+    <string name="type_2fa">Voer hieronder uw tweefactorauthenticatiecode in</string>
+    <string name="digit">Voer de 6-cijferige code in</string>
+    <string name="back">Ga terug</string>
+
+    <!--New_wallet -->
+    <string name="create_new">Maak een nieuwe portemonnee</string>
+    <string name="name_wallet">Geef uw portemonnee een naam en codeer uw portemonnee met een wachtwoord.</string>
+    <string name="w_pwd">Wallet-wachtwoord</string>
+    <string name="w_pwd2">Bevestig het Wallet-wachtwoord</string>
+    <string name="w_note">Het portemonnee-wachtwoord is vereist om transacties te verzenden</string>
+    <string name="trans_h">TRANSACTIES GESCHIEDENIS</string>
+
+    <!--Change Password -->
+    <string name="new_p">Voer je nieuwe wachtwoord in</string>
+    <string name="current_p">voer uw huidige wachtwoord in</string>
+    <string name="cp">Wachtwoord wijzigen</string>
+    <string name="cp2">huidig wachtwoord</string>
+    <string name="np">nieuw paswoord</string>
+    <string name="cnp">Bevestig nieuw wachtwoord</string>
+
+    <!--Home-->
+    <string name="portfolio">PORTEFEUILLE</string>
+    <string name="tpv">Totale portefeuillewaarde</string>
+    <string name="nw">Nieuwe portemonnee</string>
+    <string name="your_wallet">Uw portemonnee</string>
+    <string name="no_wallet2">U heeft momenteel geen portemonnee</string>
+    <string name="show_all">Toon alle portemonnees</string>
+    <string name="search">Portemonnees zoeken</string>
+    <string name="all_coins">Alle munten</string>
+
+    <!--Read-->
+    <string name="msgs">Berichten</string>
+    <string name="unread">Ongelezen</string>
+    <string name="read">Lezen</string>
+
+    <!--Review-->
+    <string name="w_add">Wallet-adres</string>
+    <string name="amount">Bedrag</string>
+    <string name="review">Beoordeling</string>
+
+    <!--Profile_View-->
+    <string name="profile_info">profiel informatie</string>
+    <string name="fullname">Voor-en achternaam</string>
+    <string name="country">Land</string>
+    <string name="close">Dichtbij</string>
+
+    <!--Sent-->
+    <string name="success">Transactie succesvol !!</string>
+    <string name="done">Gedaan</string>
+
+    <!--Set_new-->
+    <string name="new_p2">Maak een nieuw wachtwoord aan</string>
+    <string name="save">Sla uw nieuwe inlogwachtwoord en portemonnee-wachtwoord op om door te gaan</string>
+    <string name="enter_np">Voer een nieuw wachtwoord in</string>
+    <string name="nwp">Nieuw Wallet-wachtwoord</string>
+
+    <!--Validate-->
+    <string name="val">Valideer de reservefrase</string>
+    <string name="enter_phrase">Voer uw 12 reservefrase met spaties in om uw geld en transacties terug te krijgen.</string>
+    <string name="henter">Voer een reservefrase in (12 woorden)</string>
+    <string name="cont">Doorgaan met</string>
+    <string name="v_2fa">Verifieer 2FA (Google Authenticator)</string>
+    <string name="enter_email">Voer de verificatiecode in die naar uw e-mailadres is verzonden</string>
+    <string name="vmail">Voer de e-mailverificatiecode in</string>
+    <string name="i_code">Voer de verificatiecode in</string>
+
+
+    <!--select_lang-->
+    <string name="select_lang">Selecteer taal</string>
+
+    <!--new-->
+    <string name="home">Huis</string>
+    <string name="coins">Munten</string>
+    <string name="activity">Activiteit</string>
+    <string name="settings">Instellingen</string>
+    <string name="log">Uitloggen</string>
+    <string name="send2">Sturen</string>
+    <string name="receive">Te ontvangen</string>
+    <string name="create2">Creëer</string>
+    <string name="crt">ACCOUNT AANMAKEN</string>
+    <string name="log2">LOG IN</string>
+    <string name="recc">FONDSEN HERSTELLEN</string>
+    <string name="s_lang">Selecteer taal</string>
+
+
+    <!--new2-->
+    <string name="def">Engels</string>
+    <string name="sc">selecteer valuta</string>
+    <string name="usd">Amerikaanse dollar</string>
+    <string name="euro">Euro</string>
+    <string name="sterling">Pond Sterling</string>
+    <string name="yen">Chinese Yuan</string>
+    <string name="kyc">"Ken uw \ nklant"</string>
+    <string name="otc">- OTC-handelsformulier</string>
+
+    <string name="fname">Uw volledige naam</string>
+    <string name="dob">Geboortedatum</string>
+    <string name="ntn">Nationaliteit</string>
+    <string name="id">Identiteitstype</string>
+    <string name="idn">Identiteitsnummer</string>
+    <string name="ra">Woonadres</string>
+    <string name="mn">Mobiel nummer</string>
+    <string name="otc_btn">Formulier indienen</string>
+
+    <string name="otc2">"OTC Trade \ nForm"</string>
+    <string name="att">Activa om te verhandelen</string>
+    <string name="voa">Volume van activa</string>
+    <string name="qup">Geef uw prijs op</string>
+    <string name="ni">Nationale identiteit</string>
+    <string name="dl">Rijbewijs</string>
+    <string name="ip">Internationaal paspoort</string>
+    <string name="error_msg">Is benodigd</string>
+    <string name="request">Verzoek succesvol verzonden</string>
+
+    <string name="loan">"Leenverzoek \ nFormulier"</string>
+    <string name="cmp">Bedrijf</string>
+    <string name="ln2">Lening aanvraag</string>
+    <string name="ln3">Laatste nieuws</string>
+    <string name="web">Website</string>
+    <string name="tob">Type bedrijf</string>
+    <string name="pos">Product / diensten</string>
+    <string name="loan2">Leenbedrag</string>
+    <string name="psize">Portfolio grootte</string>
+    <string name="bd">Makelaar-dealer</string>
+    <string name="ex">Uitwisseling</string>
+    <string name="ico">ICO</string>
+    <string name="bw">Zakelijke portemonnee</string>
+    <string name="cu">Hechtenis</string>
+    <string name="cp3">Aangepast project</string>
+    <string name="ln">Lening</string>
+    <string name="sc2">Selecteer alstublieft een land</string>
+    <string name="tf">OTC-handel</string>
+    <string name="en">Engels</string>
+    <string name="zh">Chinese</string>
+    <string name="ar">Arabisch</string>
+    <string name="pt">Portugees</string>
+    <string name="it">Italiaans</string>
+    <string name="fr">Frans</string>
+    <string name="ko">Koreaans</string>
+    <string name="de">Duitse</string>
+    <string name="ja">Japans</string>
+    <string name="nl">Nederlands</string>
+    <string name="es">Spaans</string>
+    <string name="ru">Russisch</string>
+    <string name="wh">Hoe we helpen</string>
+    <string name="ld">Uw leningaanbod wordt gebaseerd op uw huidige portefeuillewaarde. Extra aanbiedingen zijn automatisch en onmiddellijk beschikbaar bij waardering van uw portefeuillewaarde.</string>
+    <string name="td">Link Wallet wordt consequent genoemd als een van de beste plaatsen voor OTC-transacties, dankzij onze uitstekende service, lage kosten, veelzijdige financieringsopties en strenge beveiligingsnormen. Ga verder met het invullen van het formulier en ga aan de slag.</string>
+    <string name="alc">Alle munten</string>
+    <string name="status">Verzoek</string>
+    <string name="new_request">Dien een nieuwe aanvraag in</string>
+    <string name="lrh">Geschiedenis van leningaanvragen</string>
+    <string name="rtt">Verzoek om te ruilen</string>
+    <string name="note1">Uw leningsaanvraag wordt momenteel beoordeeld, u wordt op de hoogte gebracht van eventuele wijzigingen via uw verzoekstatus.</string>
+    <string name="note2">Uw leningsaanvraag is goedgekeurd. Bekijk uw meldingen voor meer informatie over uw lening.</string>
+    <string name="note3">Helaas kan uw leningsverzoek op dit moment niet worden ingewilligd. Verbeter uw portefeuillewaarde voor een betere kans op goedkeuring.</string>
+    <string name="note4">Uw handelsverzoek wordt momenteel beoordeeld, u wordt op de hoogte gebracht van eventuele wijzigingen via uw verzoekstatus.</string>
+    <string name="note5">Uw handelsverzoek is goedgekeurd. Bekijk uw meldingen voor meer informatie over uw handelsverzoek.</string>
+    <string name="note6">Helaas kan uw handelsverzoek momenteel niet worden uitgevoerd. Dien het verzoek over een paar uur opnieuw in.</string>
+    <string name="no_otc">Geen handelsaanvraagrecords !!</string>
+    <string name="no_loan">Geen gegevens over het aanvragen van een lening !!</string>
+    <string name="no_int">Geen internet verbinding !!</string>
+    <string name="tfh">Otc handelsgeschiedenis</string>
+    <string name="wn">Portemonnee naam</string>
+    <string name="tac">"Door u te registreren, gaat u akkoord met de gebruiksvoorwaarden en prijzen van Link Wallet"</string>
+
+
+    <string name="from">Van :</string>
+    <string name="to">Naar :</string>
+    <string name="sh">Alle ruilverzoeken</string>
+    <string name="ns">Geen omwisselverzoekrecords !!</string>
+    <string name="swc">Wissel munt</string>
+    <string name="sctw">Selecteer munten om te ruilen</string>
+    <string name="stc">Inzet munt</string>
+    <string name="scts">Selecteer Munt om uit te zetten</string>
+    <string name="stake">Inzet</string>
+   <string name="swc2">Verwissel uw cryptocurrencies veilig</string>
+    <string name="mfee">Minimale kosten in rekening gebracht</string>
+    <string name="scte">Zet Crypto in om uw portfolio te vergroten</string>
+    <string name="sth">Alle inzetten</string>
+    <string name="nst">Geen ringrecords</string>
+
+
+</resources>

@@ -1,0 +1,618 @@
+<resources>
+    <string name="app_name">链接钱包</string>
+    <string name="wlc">欢迎</string>
+    <string name="landing">请登录或注册以继续使用链接钱包</string>
+    <string name="landing2">立即开始交易加密货币</string>
+    <string name="landing3">或使用电子邮件登录</string>
+    <string name="signupc">注册</string>
+    <string name="rec">追回资金</string>
+    <string name="signup">注册</string>
+    <string name="sign2">请注册以继续</string>
+    <string name="policy">我同意隐私政策</string>
+    <string name="sign3"><u>继续登录</ u></string>
+    <string name="hlog">已经有一个帐户，<u>继续登录</ u></string>
+    <string name="login1">现在登录</string>
+    <string name="login2">请登录访问更多内容</string>
+    <string name="login3">没有帐户，<u>注册</ u></string>
+    <string name="notyfy">通知事项</string>
+    <string name="share_app4">分享链接钱包应用</string>
+    <string name="about4">关于链接钱包</string>
+    <string name="share4">分享</string>
+    <string name="ve">验证邮件</string>
+    <string name="ve2">输入发送到您的邮件的链接钱包验证码。</string>
+    <string name="ve3">校验</string>
+    <string name="rc">重新发送验证码</string>
+    <string name="see_all">查看全部</string>
+    <string name="cb">您必须同意隐私政策</string>
+    <string name="fc">特色货币</string>
+    <string name="ys">你发送</string>
+    <string name="yr">你收到</string>
+    <string name="itn">总共</string>
+    <string name="emt">输入金额</string>
+    <string name="proceed">继续</string>
+    <string name="sp">输入收款人的钱包地址和您的钱包密码</string>
+    <string name="sending">您正在发送</string>
+    <string name="cv">当前值</string>
+    <string name="pos2">继续发送</string>
+    <string name="done2">完成</string>
+    <string name="cl">我们应该用哪种语言为您服务？</string>
+    <string name="swp">附加功能</string>
+    <string name="serv_one">Link钱包安全地存储您的加密货币，从列出的可用硬币中进行选择，创建一个具有强密码的钱包以开始交易加密货币。 Link钱包还为用户提供了以中等费用交换加密货币的能力。</string>
+    <string name="serv_two">我们为用户提供了一种个性化的方式来快速，安全地交易大块。我们的交易柜台不仅专注于比特币OTC交易，我们还可以在Link Wallet上列出的几乎所有硬币上进行加密交易。</string>
+    <string name="serv_three">Link Wallet具有可操作的即时借贷平台，具有无缝的用户体验和具有256位加密的军事级安全性。</string>
+    <string name="csv">当前功能</string>
+    <string name="csw">换币</string>
+    <string name="serv">服务</string>
+    <string name="otc_one">大型加密货币场外交易大宗交易</string>
+    <string name="fs">快速结算</string>
+    <string name="fsn">没有第三方，无忧</string>
+    <string name="ptd">个性化交易</string>
+    <string name="ptdn">1-1聊天支持</string>
+    <string name="loan_one">即时获得加密贷款</string>
+    <string name="qd">信用额度</string>
+    <string name="qdn">增加交易余额，以获得更好的信用额度</string>
+    <string name="ic">即时信用</string>
+    <string name="icn">没有信用检查</string>
+    <string name="swap">换币</string>
+    <string name="sf">交换自</string>
+    <string name="st">交换到</string>
+
+
+    <string name="header">现在创建一个<b>即付即用</ b>热钱包。无需合同。</string>
+    <string name="terms">注册即表示您同意Onchain托管人的</string>
+    <string name="terms2">使用条款及细则价钱</string>
+    <string name="reg_already">已经有帐号了？</string>
+    <string name="reg_logintext">登录</string>
+    <string name="currency">$</string>
+    <string name="help">帮助与支持</string>
+    <string name="create"><u>单击此处</ u>创建钱包！</string>
+
+    <!-- Reg   -->
+    <string name="hf">名字</string>
+    <string name="hl">姓</string>
+    <string name="hemail">电子邮件地址（必须验证）</string>
+    <string name="hp">密码</string>
+    <string name="hp2">确认密码</string>
+
+    <string name="select">请选择你的国家</string>
+
+    <!-- Login  -->
+
+    <string name="need">需要一个帐户？</string>
+    <string name="sign">注册|</string>
+    <string name="nhelp">需要帮忙？</string>
+    <string name="log_email">电子邮件地址</string>
+    <string name="forgot">忘记密码？</string>
+    <string name="login">登录</string>
+
+    <!-- Receive  -->
+    <string name="share">分享您的钱包地址以接收付款</string>
+    <string name="share2">分享您的钱包地址：</string>
+    <string name="copy">复制到剪贴板</string>
+    <string name="share3">分享地址</string>
+    <string name="scan">扫描二维码</string>
+
+    <!-- Forgot Password  -->
+    <string name="forgot_p">忘记密码</string>
+    <string name="submit">提交</string>
+    <string name="forgot_dets">输入您的电子邮件地址以接收包含恢复码的电子邮件</string>
+    <string name="back_login">回到登入</string>
+
+    <!-- Select coin  -->
+    <string name="select_coin">选择硬币</string>
+
+    <!-- Send  -->
+    <string name="trans_sum">交易摘要</string>
+    <string name="w_name">钱包名称：</string>
+    <string name="send_amt">金额：</string>
+    <string name="rec_add">收货地址：</string>
+    <string name="trans_fee">手续费</string>
+    <string name="send">发送</string>
+    <string name="cancel">取消</string>
+
+    <!-- Setting  -->
+    <string name="change_pwd">在这里更改密码。</string>
+    <string name="change_pwd2">更改密码</string>
+    <string name="build">1.0.0（内部版本1）</string>
+    <string name="app_v">应用程式版本</string>
+    <string name="about">了解链上托管服务</string>
+    <string name="about2">关于Onchain托管人</string>
+    <string name="fback">发送有关Onchain托管人的反馈</string>
+    <string name="share_app">共享Onchain托管人应用</string>
+    <string name="fback2">发送反馈</string>
+    <string name="share_app2">与朋友和家人分享Onchain Custodian App</string>
+    <string name="get_help">获取帮助和所需信息</string>
+    <string name="view_info">在这里查看您的个人信息。</string>
+    <string name="two_fa">切换为启用或禁用2FA</string>
+    <string name="enable">启用两要素身份验证</string>
+    <string name="backup">创建备份短语以增强安全性</string>
+    <string name="backup2">创建备份短语</string>
+    <string name="account">帐号设定</string>
+    <string name="personal">个人信息</string>
+    <string name="pref">优先</string>
+    <string name="retrieve">取回</string>
+    <string name="logout">登出</string>
+    <string name="lang">改变语言</string>
+    <string name="lang2">选择合适的语言</string>
+    <string name="curr">更改币种</string>
+    <string name="curr2">选择其他货币</string>
+    <!-- Show_all -->
+    <string name="all">所有钱包</string>
+    <string name="no_wallet">没有可用的钱包</string>
+    <string name="new_wallet">点击这里创建新钱包</string>
+
+    <!-- Trans_info -->
+    <string name="date">日期：</string>
+    <string name="title">标题</string>
+    <string name="txn">Txn ID：</string>
+    <string name="view_trans">查看交易明细</string>
+    <string name="view_block">在区块链中查看</string>
+    <string name="desc">描述：</string>
+
+    <!-- View_Noty -->
+    <string name="msg">信息</string>
+    <string name="sub">学科 ：</string>
+    <string name="body">邮件正文 ：</string>
+
+    <!-- View_Wallet -->
+    <string name="wallet_name">钱包名称</string>
+    <string name="bal">总余额</string>
+    <string name="trans">您的交易</string>
+    <string name="no_trans">尚无交易。</string>
+    <string name="your_trans">您的交易将出现在这里。</string>
+
+    <!-- View_Wallet -->
+    <string name="enter_rec_code">输入恢复码</string>
+    <string name="enter_reset">输入发送到您的邮件的重置码</string>
+    <string name="resend">重新发送验证码</string>
+
+
+    <!-- Backup_Phrase -->
+    <string name="phrase">备用词组</string>
+    <string name="backup_note">复制并安全存储您的备份短语。如果您无法访问设备，它就像是找回资金的钥匙。如果丢失，它就无法找回。</string>
+    <string name="do_not">小心！不要与任何人共享您的备用短语，因为它可以被用来访问您的资金。</string>
+
+    <!--Bottom_Sheet -->
+    <string name="setup">您想如何设置钱包？</string>
+    <string name="select_option">根据您的需求和安全要求选择一个选项。高级设置提供增强的安全性，并且在签名过程中将需要其他步骤。</string>
+    <string name="self_mng">自助式热钱包</string>
+    <string name="c_wallet">创建一个用于日常转账和小额余额的钱包</string>
+    <string name="next">下一个</string>
+
+
+    <string-array name="country_list" formatted="false" translatable="false">
+        <item>Country</item>
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>British Virgin Islands</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Canary Islands</item>
+        <item>Cape Verde</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Ceuta and Melilla</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo [DRC]</item>
+        <item>Congo [Republic]</item>
+        <item>Costa Rica</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Curaçao</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Côte d’Ivoire</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        <item>Europe</item>
+        <item>Faroe Islands</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>French Guiana</item>
+        <item>French Polynesia</item>
+        <item>Gabon</item>
+        <item>Gambia</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Greece</item>
+        <item>Greenland</item>
+        <item>Grenada</item>
+        <item>Guadeloupe</item>
+        <item>Guam</item>
+        <item>Guatemala</item>
+        <item>Guernsey</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Hong Kong</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Isle of Man</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jersey</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kiribati</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Laos</item>
+        <item>Latin America</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Macau</item>
+        <item>Macedonia [FYROM]</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marshall Islands</item>
+        <item>Martinique</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mayotte</item>
+        <item>Mexico</item>
+        <item>Micronesia</item>
+        <item>Moldova</item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montenegro</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Myanmar [Burma]</item>
+        <item>Namibia</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>New Caledonia</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>North Korea</item>
+        <item>Northern Mariana Islands</item>
+        <item>Norway</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>Palestine</item>
+        <item>Panama</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Puerto Rico</item>
+        <item>Qatar</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>Réunion</item>
+        <item>Saint Barthélemy</item>
+        <item>Saint Kitts and Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Saint Martin</item>
+        <item>Saint Vincent and the Grenadines</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Saudi Arabia</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Sint Maarten</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Solomon Islands</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Korea</item>
+        <item>South Sudan</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>Suriname</item>
+        <item>Swaziland</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>São Tomé and Príncipe</item>
+        <item>Taiwan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>Timor-Leste</item>
+        <item>Togo</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turks and Caicos Islands</item>
+        <item>U.S. Outlying Islands</item>
+        <item>U.S. Virgin Islands</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vanuatu</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Western Sahara</item>
+        <item>Yemen</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+        <item>Åland Islands</item>
+    </string-array>
+    <string-array name="coins" formatted="false" translatable="false">
+        <item>Bitcoin (BTC)</item>
+        <item>Ethereum (ETH)</item>
+        <item>Bitcoin Cash(BCH)</item>
+        <item>Litecoin (LTC)</item>
+        <item>Monero (XMR)</item>
+        <item>Ripple (XRP)</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">你好空白片段</string>
+    <string name="title_activity_basic">基本的</string>
+
+    <!--Cancel_2fa -->
+    <string name="cancel_2fa">停用2因素身份验证器</string>
+    <string name="enter_2fa">输入您的Google Authenticator代码</string>
+    <string name="enter_fa">输入Google身份验证码</string>
+
+    <!--Create_2fa -->
+    <string name="create_2fa">两因素身份验证器详细信息</string>
+    <string name="install">在手机上安装并启动Google Authenticator。您可以从iPhone App Store或Google Play获得它</string>
+    <string name="use">使用Google身份验证器扫描以下QR码</string>
+    <string name="connect">您还可以使用以下代码连接Google Authenticator应用</string>
+    <string name="your_code">您的密码</string>
+    <string name="type_2fa">在下面输入您的两因素验证码</string>
+    <string name="digit">输入6位数的验证码</string>
+    <string name="back">回去</string>
+
+    <!--New_wallet -->
+    <string name="create_new">创建新钱包</string>
+    <string name="name_wallet">为您的钱包命名，并使用密码对您的钱包进行加密。</string>
+    <string name="w_pwd">钱包密码</string>
+    <string name="w_pwd2">确认电子钱包密码</string>
+    <string name="w_note">交易需要输入钱包密码</string>
+    <string name="trans_h">交易历史</string>
+
+    <!--Change Password -->
+    <string name="new_p">输入新密码</string>
+    <string name="current_p">输入当前密码</string>
+    <string name="cp">更改密码</string>
+    <string name="cp2">当前密码</string>
+    <string name="np">新密码</string>
+    <string name="cnp">确认新密码</string>
+
+    <!--Home-->
+    <string name="portfolio">投资组合</string>
+    <string name="tpv">投资组合总值</string>
+    <string name="nw">新钱包</string>
+    <string name="your_wallet">你的钱包</string>
+    <string name="no_wallet2">您目前没有任何钱包</string>
+    <string name="show_all">显示所有钱包</string>
+    <string name="search">搜索钱包</string>
+    <string name="all_coins">所有硬币</string>
+
+    <!--Read-->
+    <string name="msgs">留言内容</string>
+    <string name="unread">未读</string>
+    <string name="read">读</string>
+
+    <!--Review-->
+    <string name="w_add">钱包地址</string>
+    <string name="amount">量</string>
+    <string name="review">评论</string>
+
+    <!--Profile_View-->
+    <string name="profile_info">档案信息</string>
+    <string name="fullname">全名</string>
+    <string name="country">国家</string>
+    <string name="close">关</string>
+
+    <!--Sent-->
+    <string name="success">交易成功！</string>
+    <string name="done">完成</string>
+
+    <!--Set_new-->
+    <string name="new_p2">创建新密码</string>
+    <string name="save">请保存新的登录密码和钱包密码以继续</string>
+    <string name="enter_np">输入新密码</string>
+    <string name="nwp">新钱包密码</string>
+
+    <!--Validate-->
+    <string name="val">验证备份短语</string>
+    <string name="enter_phrase">请输入您的12个备用词组，并加空格以恢复您的资金和交易。</string>
+    <string name="henter">输入备份短语（12个字）</string>
+    <string name="cont">继续</string>
+    <string name="v_2fa">验证2FA（Google身份验证器）</string>
+    <string name="enter_email">输入发送到您的电子邮件地址的验证码</string>
+    <string name="vmail">输入电子邮件验证码</string>
+    <string name="i_code">输入验证码</string>
+
+
+    <!--select_lang-->
+    <string name="select_lang">选择语言</string>
+
+    <!--new-->
+    <string name="home">家</string>
+    <string name="coins">硬币</string>
+    <string name="activity">活动</string>
+    <string name="settings">设定值</string>
+    <string name="log">登出</string>
+    <string name="send2">发送</string>
+    <string name="receive">接收</string>
+    <string name="create2">创造</string>
+    <string name="crt">创建帐号</string>
+    <string name="log2">登录</string>
+    <string name="recc">恢复资金</string>
+    <string name="s_lang">选择语言</string>
+
+
+    <!--new2-->
+    <string name="def">英语</string>
+    <string name="sc">选择货币</string>
+    <string name="usd">美国美元</string>
+    <string name="euro">欧元</string>
+    <string name="sterling">英镑</string>
+    <string name="yen">人民币元</string>
+    <string name="kyc">“了解您的\ nCustomer”</string>
+    <string name="otc">-场外交易表格</string>
+
+    <string name="fname">你的全名</string>
+    <string name="dob">出生日期</string>
+    <string name="ntn">国籍</string>
+    <string name="id">身份类型</string>
+    <string name="idn">身份号码</string>
+    <string name="ra">居住地址</string>
+    <string name="mn">手机号码</string>
+    <string name="otc_btn">提交表格</string>
+
+    <string name="otc2">“场外交易\ nForm”</string>
+    <string name="att">交易资产</string>
+    <string name="voa">资产数量</string>
+    <string name="qup">报价</string>
+    <string name="ni">国民身份</string>
+    <string name="dl">驾照</string>
+    <string name="ip">国际护照</string>
+    <string name="error_msg">是必须的</string>
+    <string name="request">请求已成功发送</string>
+
+    <string name="loan">“贷款请求\ nForm”</string>
+    <string name="cmp">公司</string>
+    <string name="ln2">贷款申请</string>
+    <string name="ln3">最新消息</string>
+    <string name="web">网站</string>
+    <string name="tob">业务类型</string>
+    <string name="pos">产品/服务</string>
+    <string name="loan2">贷款额度</string>
+    <string name="psize">投资组合规模</string>
+    <string name="bd">经纪商</string>
+    <string name="ex">交换</string>
+    <string name="ico">ICO</string>
+    <string name="bw">商业钱包</string>
+    <string name="cu">保管</string>
+    <string name="cp3">定制项目</string>
+    <string name="ln">贷款</string>
+    <string name="sc2">STRING TRANSLATING ERROR</string>
+    <string name="tf">场外交易</string>
+    <string name="en">英语</string>
+    <string name="zh">中文</string>
+    <string name="ar">阿拉伯</string>
+    <string name="pt">葡萄牙语</string>
+    <string name="it">义大利文</string>
+    <string name="fr">法文</string>
+    <string name="ko">韩语</string>
+    <string name="de">德语</string>
+    <string name="ja">日本</string>
+    <string name="nl">荷兰语</string>
+    <string name="es">西班牙文</string>
+    <string name="ru">俄语</string>
+    <string name="wh">我们如何提供帮助</string>
+    <string name="ld">您的贷款报价将基于您当前的投资组合价值。欣赏您的投资组合价值后，可立即自动获得其他优惠。</string>
+    <string name="td">凭借我们的优质服务，低廉的费用，多样化的资金选择和严格的安全标准，Onchain托管人一直被评为场外交易最佳地点之一，可继续填写表格并开始使用。</string>
+    <string name="alc">所有硬币</string>
+    <string name="status">请求</string>
+    <string name="new_request">提交新要求</string>
+    <string name="lrh">贷款要求记录</string>
+    <string name="rtt">要求交易</string>
+    <string name="note1">您的贷款请求目前正在审核中，您的请求状态将收到有关任何更改的通知。</string>
+    <string name="note2">您的贷款申请已获批准，请查看通知以获取有关贷款的更多信息。</string>
+    <string name="note3">不幸的是，目前无法批准您的贷款请求，请提高您的投资组合价值，以获得更好的批准机会。</string>
+    <string name="note4">您的贸易要求目前正在审核中，您的请求状态将收到有关任何更改的通知。</string>
+    <string name="note5">您的贸易要求已获批准，请查看您的通知以获取有关您的贸易要求的更多信息。</string>
+    <string name="note6">很遗憾，您的贸易要求目前无法执行，请在几个小时内重新提交请求。</string>
+    <string name="no_otc">没有贸易要求记录！</string>
+    <string name="no_loan">没有贷款申请记录！</string>
+    <string name="no_int">没有网络连接 ！！</string>
+    <string name="tfh">场外交易历史</string>
+    <string name="wn">钱包名称</string>
+    <string name="tac">“通过注册，您同意接受Link Wallet的使用条款和价格”</string>
+
+
+    <string name="from">来自：</string>
+    <string name="to">至 ：</string>
+    <string name="sh">所有交换请求</string>
+    <string name="ns">没有交换请求记录！</string>
+    <string name="swc">交换硬币</string>
+    <string name="sctw">选择要交换的硬币</string>
+    <string name="stc">股份硬币</string>
+    <string name="scts">选择要投的硬币</string>
+    <string name="stake">赌注</string>
+   <string name="swc2">安全地交换您的加密货币</string>
+    <string name="mfee">最低收费</string>
+    <string name="scte">抵押加密货币以增加您的投资组合</string>
+    <string name="sth">所有股份</string>
+    <string name="nst">没有股权记录</string>
+
+
+</resources>

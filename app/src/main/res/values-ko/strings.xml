@@ -1,0 +1,618 @@
+<resources>
+    <string name="app_name">Link Wallet</string>
+    <string name="wlc">Welcome</string>
+    <string name="landing">Please login or sign up to continue using Link Wallet</string>
+    <string name="landing2">Start trading crypto now</string>
+    <string name="landing3">or login with email</string>
+    <string name="signupc">SIGN UP</string>
+    <string name="rec">Recover Funds</string>
+    <string name="signup">Sign Up</string>
+    <string name="sign2">Please sign-up to continue</string>
+    <string name="policy">I agree with Privacy Policy</string>
+    <string name="sign3"><u>Proceed to Login</u></string>
+    <string name="hlog">Already have an account, <u>Proceed to Login</u> </string>
+    <string name="login1">Login Now</string>
+    <string name="login2">Please login to continue</string>
+    <string name="login3">Don\'t have an account, <u>Sign Up</u></string>
+    <string name="notyfy">Notifications</string>
+    <string name="share_app4">Share the Link Wallet App</string>
+    <string name="about4">About Link Wallet</string>
+    <string name="share4">Share</string>
+    <string name="ve">Verify Email</string>
+    <string name="ve2">Enter Link Wallet verification code sent to your mail.</string>
+    <string name="ve3">Verify</string>
+    <string name="rc">Resend Code</string>
+    <string name="see_all">See All</string>
+    <string name="cb">You have to agree with privacy policy</string>
+    <string name="fc">Featured Currencies</string>
+    <string name="ys">You sent</string>
+    <string name="yr">You received</string>
+    <string name="itn">In total</string>
+    <string name="emt">Enter Amount</string>
+    <string name="proceed">Proceed</string>
+    <string name="sp">Input receipient\'s wallet address and your wallet password</string>
+    <string name="sending">You are sending</string>
+    <string name="cv">Current Value</string>
+    <string name="pos2">Proceed to send</string>
+    <string name="done2">Done</string>
+    <string name="cl">In what language, should we serve you ?</string>
+    <string name="swp">Extras</string>
+    <string name="serv_one">Link wallet securely stores your cryptocurrency, select from the available listed coins, create a wallet with a strong password to begin trading cryptocurrencies. Link wallet also provides its users the ability to swap cryptocurrencies at a moderate fee.</string>
+    <string name="serv_two">We offer a personalized way for users to trade large block sizes quickly and securely. Our trading desk focuses on more than just Bitcoin OTC trading, we can accommodate crypto to crypto trades on almost any coin listed on Link Wallet.</string>
+    <string name="serv_three">Link Wallet has a fully operational instant lending platform with seamless user experience and military-grade security with 256-bit encryption.</string>
+    <string name="csv">Current features</string>
+    <string name="csw">Coin Swap</string>
+    <string name="serv">Services</string>
+    <string name="otc_one">Large Crypto OTC Block Trading of Cryptocurrencies</string>
+    <string name="fs">Fast Settlement</string>
+    <string name="fsn">No 3rd Party, Hassle-Free</string>
+    <string name="ptd">Personalized Trading</string>
+    <string name="ptdn">1-1 Chat Support</string>
+    <string name="loan_one">Instant Access To Crypto Loan</string>
+    <string name="qd">Credit Line</string>
+    <string name="qdn">Increase your trading balance, for better credit line</string>
+    <string name="ic">Instant Credit</string>
+    <string name="icn">No Credit Checks</string>
+    <string name="swap">Coin Swap</string>
+    <string name="sf">Swap From</string>
+    <string name="st">Swap To</string>
+
+
+    <string name="header">Create a <b>Pay As You Go</b> hot wallet now. No contract required.</string>
+    <string name="terms">By registering, you agree to Link Wallet\'s</string>
+    <string name="terms2">Terms of Use &amp; Pricing</string>
+    <string name="reg_already">Already have an account?</string>
+    <string name="reg_logintext">Log In</string>
+    <string name="currency">$</string>
+    <string name="help">Help &amp; Support</string>
+    <string name="create"><u>Click here</u> to create your   wallets!</string>
+
+    <!-- Reg   -->
+    <string name="hf">First Name</string>
+    <string name="hl">Last Name</string>
+    <string name="hemail">Email Address (Must be Verified)</string>
+    <string name="hp">Password</string>
+    <string name="hp2">Confirm Password</string>
+
+    <string name="select">Please Select Your Country</string>
+
+    <!-- Login  -->
+
+    <string name="need">Need an account?</string>
+    <string name="sign">Sign Up |</string>
+    <string name="nhelp">Need Help?</string>
+    <string name="log_email">Email Address</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="login">Log in</string>
+
+    <!-- Receive  -->
+    <string name="share">Share your wallet address to receive payments</string>
+    <string name="share2">SHARE YOUR WALLET ADDRESS :</string>
+    <string name="copy">COPY TO CLIPBOARD</string>
+    <string name="share3">SHARE ADDRESS</string>
+    <string name="scan">SCAN QR CODE</string>
+
+    <!-- Forgot Password  -->
+    <string name="forgot_p">Forgot Password</string>
+    <string name="submit">Submit</string>
+    <string name="forgot_dets">Enter your Email address to receive an email with recovery code</string>
+    <string name="back_login">Back to Login</string>
+
+    <!-- Select coin  -->
+    <string name="select_coin">Select Coin</string>
+
+    <!-- Send  -->
+    <string name="trans_sum">Transaction Summary</string>
+    <string name="w_name">Wallet Name:</string>
+    <string name="send_amt">Amount :</string>
+    <string name="rec_add">Receiving Address:</string>
+    <string name="trans_fee">Transaction Fee</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Setting  -->
+    <string name="change_pwd">Change your password here.</string>
+    <string name="change_pwd2">Change Password</string>
+    <string name="build">1.0.0 (build 1)</string>
+    <string name="app_v">App Version</string>
+    <string name="about">Learn about Link Wallet Services</string>
+    <string name="about2">About Link Wallet</string>
+    <string name="fback">Send a feedback about Link Wallet</string>
+    <string name="share_app">Share the Link Wallet App</string>
+    <string name="fback2">Send Feedback</string>
+    <string name="share_app2">Share the Link Wallet App to friends and family</string>
+    <string name="get_help">Get help and needed information</string>
+    <string name="view_info">View your personal information here.</string>
+    <string name="two_fa">Switch to enable or disable 2FA</string>
+    <string name="enable">Enable 2-Factor Authentication</string>
+    <string name="backup">Create backup phrase for added security</string>
+    <string name="backup2">Create Backup Phrase</string>
+    <string name="account">Account Settings</string>
+    <string name="personal">Personal Information</string>
+    <string name="pref">Preferences</string>
+    <string name="retrieve">Retrieve</string>
+    <string name="logout">Logout</string>
+    <string name="lang">Change Language</string>
+    <string name="lang2">Select a suitable language</string>
+    <string name="curr">Change Currency</string>
+    <string name="curr2">Select alternative currency</string>
+    <!-- Show_all -->
+    <string name="all">All Wallets</string>
+    <string name="no_wallet">No Wallet Available</string>
+    <string name="new_wallet">Click here to create new wallet</string>
+
+    <!-- Trans_info -->
+    <string name="date">Date:</string>
+    <string name="title">Title</string>
+    <string name="txn">Txn ID :</string>
+    <string name="view_trans">View Transaction Details</string>
+    <string name="view_block">VIEW IN BLOCKCHAIN</string>
+    <string name="desc">Description:</string>
+
+    <!-- View_Noty -->
+    <string name="msg">Message</string>
+    <string name="sub">Subject :</string>
+    <string name="body">Message Body :</string>
+
+    <!-- View_Wallet -->
+    <string name="wallet_name">Wallet Name</string>
+    <string name="bal">Total Balance</string>
+    <string name="trans">Your Transactions</string>
+    <string name="no_trans">No Transactions Yet.</string>
+    <string name="your_trans">Your Transactions Will Appear Here.</string>
+
+    <!-- View_Wallet -->
+    <string name="enter_rec_code">Enter Recovery Code</string>
+    <string name="enter_reset">Enter the reset code sent to your mail</string>
+    <string name="resend">Resend Code</string>
+
+
+    <!-- Backup_Phrase -->
+    <string name="phrase">Backup Phrase </string>
+    <string name="backup_note">Copy and securely store your Backup Phrase. It acts like a key to recover your funds if you cant access your device.It can\'t be recovered if lost.</string>
+    <string name="do_not">Be careful! Do not share  your backup phrase with anyone as it can be used to access your funds.</string>
+
+    <!--Bottom_Sheet -->
+    <string name="setup">How do you want to setup your wallet?</string>
+    <string name="select_option">Select an option based on your needs and security requirements. Advanced Setup provides enhanced security and will require additional steps in the signing process.</string>
+    <string name="self_mng">Self- Managed Hot Wallet</string>
+    <string name="c_wallet">Create a wallet for everyday transfers and small balances</string>
+    <string name="next">Next</string>
+
+
+    <string-array name="country_list" formatted="false" translatable="false">
+        <item>Country</item>
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>British Virgin Islands</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Canary Islands</item>
+        <item>Cape Verde</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Ceuta and Melilla</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo [DRC]</item>
+        <item>Congo [Republic]</item>
+        <item>Costa Rica</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Curaçao</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Côte d’Ivoire</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        <item>Europe</item>
+        <item>Faroe Islands</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>French Guiana</item>
+        <item>French Polynesia</item>
+        <item>Gabon</item>
+        <item>Gambia</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Greece</item>
+        <item>Greenland</item>
+        <item>Grenada</item>
+        <item>Guadeloupe</item>
+        <item>Guam</item>
+        <item>Guatemala</item>
+        <item>Guernsey</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Hong Kong</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Isle of Man</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jersey</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kiribati</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Laos</item>
+        <item>Latin America</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Macau</item>
+        <item>Macedonia [FYROM]</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marshall Islands</item>
+        <item>Martinique</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mayotte</item>
+        <item>Mexico</item>
+        <item>Micronesia</item>
+        <item>Moldova</item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montenegro</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Myanmar [Burma]</item>
+        <item>Namibia</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>New Caledonia</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>North Korea</item>
+        <item>Northern Mariana Islands</item>
+        <item>Norway</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>Palestine</item>
+        <item>Panama</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Puerto Rico</item>
+        <item>Qatar</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>Réunion</item>
+        <item>Saint Barthélemy</item>
+        <item>Saint Kitts and Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Saint Martin</item>
+        <item>Saint Vincent and the Grenadines</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Saudi Arabia</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Sint Maarten</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Solomon Islands</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Korea</item>
+        <item>South Sudan</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>Suriname</item>
+        <item>Swaziland</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>São Tomé and Príncipe</item>
+        <item>Taiwan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>Timor-Leste</item>
+        <item>Togo</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turks and Caicos Islands</item>
+        <item>U.S. Outlying Islands</item>
+        <item>U.S. Virgin Islands</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vanuatu</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Western Sahara</item>
+        <item>Yemen</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+        <item>Åland Islands</item>
+    </string-array>
+    <string-array name="coins" formatted="false" translatable="false">
+        <item>Bitcoin (BTC)</item>
+        <item>Ethereum (ETH)</item>
+        <item>Bitcoin Cash(BCH)</item>
+        <item>Litecoin (LTC)</item>
+        <item>Monero (XMR)</item>
+        <item>Ripple (XRP)</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_basic">Basic</string>
+
+    <!--Cancel_2fa -->
+    <string name="cancel_2fa">Deactivate 2-Factor Authenticator </string>
+    <string name="enter_2fa">Enter your Google Authenticator code</string>
+    <string name="enter_fa">Enter Google Authenticator Code</string>
+
+    <!--Create_2fa -->
+    <string name="create_2fa">2-Factor Authenticator Details </string>
+    <string name="install">Install and Launch Google Authenticator on your phone. You can get it from iPhone App Store or Google play</string>
+    <string name="use">Use Google Authenticator to scan the QR code  below</string>
+    <string name="connect">You can also connect your Google Authenticator app with the code below</string>
+    <string name="your_code">Your code</string>
+    <string name="type_2fa">Enter your Two Factor Authentication Code below</string>
+    <string name="digit">Enter 6-digit Code</string>
+    <string name="back">Go back</string>
+
+    <!--New_wallet -->
+    <string name="create_new">Create New Wallet</string>
+    <string name="name_wallet">Name your wallet and encrypt your wallet with a password.</string>
+    <string name="w_pwd">Wallet Password</string>
+    <string name="w_pwd2">Confirm Wallet Password</string>
+    <string name="w_note">The wallet password will be required to send transactions</string>
+    <string name="trans_h">TRANSACTIONS HISTORY</string>
+
+    <!--Change Password -->
+    <string name="new_p">Enter your new password</string>
+    <string name="current_p">Enter your current password</string>
+    <string name="cp">Change Password</string>
+    <string name="cp2">Current Password</string>
+    <string name="np">New Password</string>
+    <string name="cnp">Confirm New Password</string>
+
+    <!--Home-->
+    <string name="portfolio">PORTFOLIO</string>
+    <string name="tpv">Total Portfolio Value</string>
+    <string name="nw">New wallet</string>
+    <string name="your_wallet">Your Wallet</string>
+    <string name="no_wallet2">You don\'t have any wallet currently</string>
+    <string name="show_all">Show all wallets</string>
+    <string name="search">Search wallets</string>
+    <string name="all_coins">All Coins</string>
+
+    <!--Read-->
+    <string name="msgs">Messages</string>
+    <string name="unread">Unread</string>
+    <string name="read">Read</string>
+
+    <!--Review-->
+    <string name="w_add">Wallet Address</string>
+    <string name="amount">Amount</string>
+    <string name="review">Review</string>
+
+    <!--Profile_View-->
+    <string name="profile_info">Profile Information</string>
+    <string name="fullname">Full Name</string>
+    <string name="country">Country</string>
+    <string name="close">Close</string>
+
+    <!--Sent-->
+    <string name="success">Transaction Successful !!</string>
+    <string name="done">Done</string>
+
+    <!--Set_new-->
+    <string name="new_p2">Create New Password</string>
+    <string name="save">Please save your new login password and wallet password to continue</string>
+    <string name="enter_np">Enter New Password</string>
+    <string name="nwp">New Wallet Password</string>
+
+    <!--Validate-->
+    <string name="val">Validate Backup Phrase</string>
+    <string name="enter_phrase">Please enter your 12 backup phrase with spaces to recover your funds and transactions.</string>
+    <string name="henter">Enter Backup Phrase (12 words)</string>
+    <string name="cont">Continue</string>
+    <string name="v_2fa">Verify 2FA (Google Authenticator)</string>
+    <string name="enter_email">Enter the verification code sent to your email address</string>
+    <string name="vmail">Enter Email Verification Code</string>
+    <string name="i_code">Input Verification code</string>
+
+
+    <!--select_lang-->
+    <string name="select_lang">Select Language</string>
+
+    <!--new-->
+    <string name="home">Home</string>
+    <string name="coins">Coins</string>
+    <string name="activity">Activity</string>
+    <string name="settings">Settings</string>
+    <string name="log">Logout</string>
+    <string name="send2">Send</string>
+    <string name="receive">Receive</string>
+    <string name="create2">Create</string>
+    <string name="crt">CREATE ACCOUNT</string>
+    <string name="log2">LOG IN</string>
+    <string name="recc">RECOVER FUNDS</string>
+    <string name="s_lang">Select Language</string>
+
+
+    <!--new2-->
+    <string name="def">English</string>
+    <string name="sc">Select Currency</string>
+    <string name="usd">United State Dollar</string>
+    <string name="euro">Euro</string>
+    <string name="sterling">Pound Sterling</string>
+    <string name="yen">Chinese Yuan</string>
+    <string name="kyc">"Know your \nCustomer"</string>
+    <string name="otc">- OTC Trade Form</string>
+
+    <string name="fname">Your Full Name</string>
+    <string name="dob"> Date  Of Birth</string>
+    <string name="ntn">Nationality</string>
+    <string name="id">Identity Type</string>
+    <string name="idn">Identity Number</string>
+    <string name="ra">Residential Address</string>
+    <string name="mn">Mobile Number</string>
+    <string name="otc_btn">Submit Form</string>
+
+    <string name="otc2">"OTC Trade \nForm"</string>
+    <string name="att">Asset to trade</string>
+    <string name="voa">Volume of asset</string>
+    <string name="qup">Quote your price</string>
+    <string name="ni">National Identity</string>
+    <string name="dl">Driver\'s License</string>
+    <string name="ip">International Passport</string>
+    <string name="error_msg">is required</string>
+    <string name="request">Request Sent Successfully</string>
+
+    <string name="loan">"Loan Request \nForm"</string>
+    <string name="cmp">Company</string>
+    <string name="ln2">Loan Request</string>
+    <string name="ln3">Latest News</string>
+    <string name="web">Website</string>
+    <string name="tob">Type Of Business</string>
+    <string name="pos">Product/Services</string>
+    <string name="loan2">Loan Amount</string>
+    <string name="psize">Portfolio Size</string>
+    <string name="bd">Broker-Dealer</string>
+    <string name="ex">Exchange</string>
+    <string name="ico">ICO</string>
+    <string name="bw">Business Wallet</string>
+    <string name="cu">Custody</string>
+    <string name="cp3">Custom Project</string>
+    <string name="ln">Loan</string>
+    <string name="sc2">Please Select a Country</string>
+    <string name="tf">OTC Trade</string>
+    <string name="en">English</string>
+    <string name="zh">Chinese</string>
+    <string name="ar">Arabic</string>
+    <string name="pt">Portuguese</string>
+    <string name="it">Italian</string>
+    <string name="fr">French</string>
+    <string name="ko">Korean</string>
+    <string name="de">German</string>
+    <string name="ja">Japanese</string>
+    <string name="nl">Dutch</string>
+    <string name="es">Spanish</string>
+    <string name="ru">Russian</string>
+    <string name="wh">How we help</string>
+    <string name="ld">Your Loan offer will be based on your current portfolio value. Additional offers are automatically and instantly available upon appreciation of your porfolio value.</string>
+    <string name="td">Link Wallet is consistently named one of the best places for OTC trades, thanks to our excellent service, low fees, versatile funding options and rigorous security standards, Proceed to fill the form, and get started.</string>
+    <string name="alc">All Coins</string>
+    <string name="status">Request</string>
+    <string name="new_request">Submit a new request</string>
+    <string name="lrh">Loan request history</string>
+    <string name="rtt">Request to trade</string>
+    <string name="note1">Your loan request is currently under review, you will be notified of any changes via your request status.</string>
+    <string name="note2">Your loan request is approved, Please view your notifications for more information regarding your loan.</string>
+    <string name="note3">Unfortunately, your loan request cannot be granted at this moment, please improve your portfolio value for better chances of approval.</string>
+    <string name="note4">Your trade request is currently under review, you will be notified of any changes via your request status.</string>
+    <string name="note5">Your trade request is approved, Please view your notifications for more information regarding your trade request.</string>
+    <string name="note6">Unfortunately, your trade request cannot be carried out currently, please re-submit request in few hours.</string>
+    <string name="no_otc">No Trade Request Records !!</string>
+    <string name="no_loan">No Loan Request Records !!</string>
+    <string name="no_int">No Internet Connection !!</string>
+    <string name="tfh">Otc trade history</string>
+    <string name="wn">Wallet Name</string>
+    <string name="tac">"By registering, you agree to Link Wallet\'s Terms of use &amp; pricing"</string>
+
+
+    <string name="from">From :</string>
+    <string name="to">To :</string>
+    <string name="sh">All Swap Request</string>
+    <string name="ns">No Swap Request Records !!</string>
+    <string name="swc">Swap Coin</string>
+    <string name="sctw">Select Coins To Swap</string>
+    <string name="stc">Stake Coin</string>
+    <string name="scts">Select Coin To Stake</string>
+    <string name="stake">Stake</string>
+    <string name="swc2">Securely Swap  Your Cryptocurrencies</string>
+    <string name="mfee">Minimal Fee Charged</string>
+    <string name="scte">Stake Crypto To Increase Your Portfolio</string>
+    <string name="sth">All Stakes</string>
+    <string name="nst">No Stake Records</string>
+
+
+</resources>

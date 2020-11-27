@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/profile"
+    android:fillViewport="true"
+    tools:context=".Stake">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.github.loadingview.LoadingView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:id="@+id/lv"
+            />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_margin="20dp"
+            android:id="@+id/rl2"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/img"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/ic_arrow_back_white_24dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="10dp"
+                android:layout_toRightOf="@id/img"
+                android:text="@string/stc"
+                android:textColor="#FFF"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+
+        </RelativeLayout>
+
+
+
+
+        <RelativeLayout
+
+            android:id="@+id/rl"
+            android:layout_width="match_parent"
+            android:layout_height="600dp"
+            android:layout_below="@id/rl2"
+            android:background="@drawable/profile_rect"
+            android:layout_centerInParent="true">
+
+
+
+            <RelativeLayout
+                android:id="@+id/constraint"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp">
+
+                <TextView
+                    android:id="@+id/txt"
+                    style="@style/TextAppearance.AppCompat.Subhead"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="50dp"
+                    android:layout_marginTop="50dp"
+                    android:layout_marginEnd="50dp"
+                    android:layout_marginBottom="50dp"
+                    android:text="@string/scts"
+                    android:textAlignment="center"
+                    android:textStyle="italic"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <com.skydoves.powerspinner.PowerSpinnerView
+                    android:id="@+id/coin"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/txt"
+                    android:layout_marginLeft="45dp"
+                    android:layout_marginRight="45dp"
+                    android:background="@drawable/blue_outline"
+                    android:gravity="center"
+                    android:hint="@string/select_coin"
+                    android:padding="10dp"
+                    android:textColor="@color/colorAccent"
+                    android:textColorHint="@color/colorAccent"
+                    android:textSize="14.5sp"
+                    app:spinner_arrow_gravity="end"
+                    app:spinner_arrow_padding="8dp"
+                    app:spinner_divider_color="@color/colorAccent"
+                    app:spinner_divider_show="true"
+                    app:spinner_divider_size="0.4dp"
+                    app:spinner_item_array="@array/coins"
+                    app:spinner_popup_animation="bounce"
+                    app:spinner_popup_background="@color/white"
+                    app:spinner_popup_elevation="14dp" />
+
+
+
+                <com.skydoves.powerspinner.PowerSpinnerView
+                    android:id="@+id/plan"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/coin"
+                    android:layout_marginLeft="45dp"
+                    android:layout_marginRight="45dp"
+                    android:background="@drawable/blue_outline"
+                    android:gravity="center"
+                    android:hint="Select Plan"
+                    android:padding="10dp"
+                    android:textColor="@color/colorAccent"
+                    android:visibility="invisible"
+                    android:textColorHint="@color/colorAccent"
+                    android:textSize="14.5sp"
+                    app:spinner_arrow_gravity="end"
+                    app:spinner_arrow_padding="8dp"
+                    app:spinner_divider_color="@color/colorAccent"
+                    app:spinner_divider_show="true"
+                    app:spinner_divider_size="0.4dp"
+                    app:spinner_item_array="@array/coins"
+                    app:spinner_popup_animation="bounce"
+                    app:spinner_popup_background="@color/white"
+                    app:spinner_popup_elevation="14dp" />
+
+                <com.skydoves.powerspinner.PowerSpinnerView
+                    android:id="@+id/wallet"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/plan"
+                    android:layout_marginLeft="45dp"
+                    android:layout_marginRight="45dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/blue_outline"
+                    android:gravity="center"
+                    android:hint="Select Wallet"
+
+                    android:padding="10dp"
+                    android:textColor="@color/colorAccent"
+                    android:visibility="invisible"
+                    android:textColorHint="@color/colorAccent"
+                    android:textSize="14.5sp"
+                    app:spinner_arrow_gravity="end"
+                    app:spinner_arrow_padding="8dp"
+                    app:spinner_divider_color="@color/colorAccent"
+                    app:spinner_divider_show="true"
+                    app:spinner_divider_size="0.4dp"
+                    app:spinner_item_array="@array/coins"
+                    app:spinner_popup_animation="bounce"
+                    app:spinner_popup_background="@color/white"
+                    app:spinner_popup_elevation="14dp" />
+
+                <EditText
+                    android:id="@+id/amount"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_below="@id/wallet"
+                    android:visibility="invisible"
+                    android:layout_marginLeft="45dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginRight="45dp"
+                    android:background="@drawable/blue_outline"
+                    android:ems="10"
+                    android:hint="Amount"
+                    android:padding="10dp"
+                    android:textSize="12sp" />
+
+
+
+            </RelativeLayout>
+
+            <com.dx.dxloadingbutton.lib.LoadingButton
+                android:id="@+id/stake"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@id/constraint"
+                android:layout_marginLeft="50dp"
+                app:lb_cornerRadius="10dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginRight="50dp"
+                android:textAllCaps="false"
+                app:lb_resetAfterFailed="true"
+                android:layout_marginBottom="10dp"
+                app:lb_btnColor="@color/colorAccent"
+                app:lb_btnText="@string/cont"
+                app:lb_textColor="#FFF" />
+
+            <com.dx.dxloadingbutton.lib.LoadingButton
+                android:id="@+id/main_stake"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@id/constraint"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="40dp"
+
+                android:layout_marginRight="50dp"
+                app:lb_btnColor="@color/colorAccent"
+                app:lb_cornerRadius="10dp"
+                android:textAllCaps="false"
+                android:visibility="invisible"
+
+                app:lb_btnText="@string/stake"
+                app:lb_resetAfterFailed="true"
+                app:lb_textColor="#FFF" />
+
+
+
+
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</androidx.core.widget.NestedScrollView>

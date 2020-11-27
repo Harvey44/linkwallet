@@ -1,0 +1,618 @@
+<resources>
+    <string name="app_name">Collega portafoglio</string>
+    <string name="wlc">benvenuto</string>
+    <string name="landing">Accedi o registrati per continuare a utilizzare Link Wallet</string>
+    <string name="landing2">Inizia subito a fare trading di criptovalute</string>
+    <string name="landing3">o accedi con l'email</string>
+    <string name="signupc">ISCRIVITI</string>
+    <string name="rec">Recupera fondi</string>
+    <string name="signup">Iscriviti</string>
+    <string name="sign2">Registrati per continuare</string>
+    <string name="policy">Sono d'accordo con la Privacy Policy</string>
+    <string name="sign3"><u> Procedi all'accesso </u></string>
+    <string name="hlog">Possiedi già un account, <u> procedi al login </u></string>
+    <string name="login1">Accedi ora</string>
+    <string name="login2">Per favore accedi per continuare</string>
+    <string name="login3">Non avere un account, <u> Registrati </u></string>
+    <string name="notyfy">Notifiche</string>
+    <string name="share_app4">Condividi l'app Link Wallet</string>
+    <string name="about4">Informazioni su Link Wallet</string>
+    <string name="share4">Condividere</string>
+    <string name="ve">Verifica Email</string>
+    <string name="ve2">Inserisci il codice di verifica Link Wallet inviato alla tua posta.</string>
+    <string name="ve3">Verificare</string>
+    <string name="rc">Codice di rispedizione</string>
+    <string name="see_all">Vedi tutto</string>
+    <string name="cb">Devi accettare l'informativa sulla privacy</string>
+    <string name="fc">Valute in primo piano</string>
+    <string name="ys">Tu hai inviato</string>
+    <string name="yr">Hai ricevuto</string>
+    <string name="itn">In totale</string>
+    <string name="emt">Inserire l'importo</string>
+    <string name="proceed">Procedere</string>
+    <string name="sp">Inserisci l'indirizzo del portafoglio del destinatario e la password del tuo portafoglio</string>
+    <string name="sending">Stai inviando</string>
+    <string name="cv">Valore corrente</string>
+    <string name="pos2">Procedi con l'invio</string>
+    <string name="done2">Fatto</string>
+    <string name="cl">In che lingua, dovremmo servirti?</string>
+    <string name="swp">Extra</string>
+    <string name="serv_one">Link wallet archivia in modo sicuro la tua criptovaluta, seleziona tra le monete elencate disponibili, crea un portafoglio con una password complessa per iniziare a fare trading di criptovalute. Link wallet offre inoltre ai suoi utenti la possibilità di scambiare criptovalute a un costo moderato.</string>
+    <string name="serv_two">Offriamo agli utenti un modo personalizzato per scambiare blocchi di grandi dimensioni in modo rapido e sicuro. Il nostro trading desk si concentra su qualcosa di più del semplice trading OTC di Bitcoin, siamo in grado di ospitare scambi da crittografia a crittografia su quasi tutte le monete elencate su Link Wallet.</string>
+    <string name="serv_three">Link Wallet ha una piattaforma di prestito istantaneo completamente operativa con un'esperienza utente senza interruzioni e sicurezza di livello militare con crittografia a 256 bit.</string>
+    <string name="csv">Caratteristiche attuali</string>
+    <string name="csw">Scambio di monete</string>
+    <string name="serv">Servizi</string>
+    <string name="otc_one">Large Crypto OTC Block Trading di criptovalute</string>
+    <string name="fs">Liquidazione rapida</string>
+    <string name="fsn">Nessuna terza parte, senza problemi</string>
+    <string name="ptd">Trading personalizzato</string>
+    <string name="ptdn">1-1 Supporto chat</string>
+    <string name="loan_one">Accesso istantaneo a Crypto Loan</string>
+    <string name="qd">Linea di credito</string>
+    <string name="qdn">Aumenta il tuo saldo commerciale, per una migliore linea di credito</string>
+    <string name="ic">Credito istantaneo</string>
+    <string name="icn">Nessun controllo del credito</string>
+    <string name="swap">Scambio di monete</string>
+    <string name="sf">Scambia da</string>
+    <string name="st">Scambia in</string>
+
+
+    <string name="header">Crea subito un hot wallet <b> Pay As You Go </b>. Nessun contratto richiesto.</string>
+    <string name="terms">Registrandoti, accetti di Onchain Custodian \ 's</string>
+    <string name="terms2">Termini di utilizzo & amp; Prezzi</string>
+    <string name="reg_already">Hai già un account?</string>
+    <string name="reg_logintext">Accesso</string>
+    <string name="currency">$</string>
+    <string name="help">Aiuto & amp; Supporto</string>
+    <string name="create"><u> Clicca qui </u> per creare i tuoi portafogli!</string>
+
+    <!-- Reg   -->
+    <string name="hf">Nome di battesimo</string>
+    <string name="hl">Cognome</string>
+    <string name="hemail">Indirizzo email (deve essere verificato)</string>
+    <string name="hp">Parola d'ordine</string>
+    <string name="hp2">conferma password</string>
+
+    <string name="select">Selezionare il proprio paese</string>
+
+    <!-- Login  -->
+
+    <string name="need">Bisogno di un account?</string>
+    <string name="sign">Registrati |</string>
+    <string name="nhelp">Ho bisogno di aiuto?</string>
+    <string name="log_email">Indirizzo email</string>
+    <string name="forgot">Ha dimenticato la password?</string>
+    <string name="login">Accesso</string>
+
+    <!-- Receive  -->
+    <string name="share">Condividi l'indirizzo del tuo portafoglio per ricevere i pagamenti</string>
+    <string name="share2">CONDIVIDI IL TUO INDIRIZZO DEL PORTAFOGLIO:</string>
+    <string name="copy">COPIA NEGLI APPUNTI</string>
+    <string name="share3">CONDIVIDI INDIRIZZO</string>
+    <string name="scan">SCANSIONA IL CODICE QR</string>
+
+    <!-- Forgot Password  -->
+    <string name="forgot_p">Ha dimenticato la password</string>
+    <string name="submit">Invia</string>
+    <string name="forgot_dets">Inserisci il tuo indirizzo e-mail per ricevere un'e-mail con il codice di recupero</string>
+    <string name="back_login">Torna al login</string>
+
+    <!-- Select coin  -->
+    <string name="select_coin">Seleziona Coin</string>
+
+    <!-- Send  -->
+    <string name="trans_sum">Riepilogo delle transazioni</string>
+    <string name="w_name">Nome portafoglio:</string>
+    <string name="send_amt">Quantità :</string>
+    <string name="rec_add">Indirizzo di ricezione:</string>
+    <string name="trans_fee">Costo della transazione</string>
+    <string name="send">Spedire</string>
+    <string name="cancel">Annulla</string>
+
+    <!-- Setting  -->
+    <string name="change_pwd">Cambia la tua password qui.</string>
+    <string name="change_pwd2">Cambia la password</string>
+    <string name="build">1.0.0 (build 1)</string>
+    <string name="app_v">Versione app</string>
+    <string name="about">Informazioni sui servizi di custodia di Onchain</string>
+    <string name="about2">Informazioni su Onchain Custodian</string>
+    <string name="fback">Invia un feedback su Onchain Custodian</string>
+    <string name="share_app">Condividi l'app Onchain Custodian</string>
+    <string name="fback2">Invia feedback</string>
+    <string name="share_app2">Condividi l'app Onchain Custodian con amici e familiari</string>
+    <string name="get_help">Ottieni aiuto e informazioni necessarie</string>
+    <string name="view_info">Visualizza le tue informazioni personali qui.</string>
+    <string name="two_fa">Passa per abilitare o disabilitare 2FA</string>
+    <string name="enable">Abilita autenticazione a 2 fattori</string>
+    <string name="backup">Crea una frase di backup per una maggiore sicurezza</string>
+    <string name="backup2">Crea frase di backup</string>
+    <string name="account">Impostazioni dell 'account</string>
+    <string name="personal">Informazione personale</string>
+    <string name="pref">Preferenze</string>
+    <string name="retrieve">Recuperare</string>
+    <string name="logout">Disconnettersi</string>
+    <string name="lang">Cambia lingua</string>
+    <string name="lang2">Seleziona una lingua adatta</string>
+    <string name="curr">Cambia valuta</string>
+    <string name="curr2">Seleziona una valuta alternativa</string>
+    <!-- Show_all -->
+    <string name="all">Tutti i portafogli</string>
+    <string name="no_wallet">Nessun portafoglio disponibile</string>
+    <string name="new_wallet">Fare clic qui per creare un nuovo portafoglio</string>
+
+    <!-- Trans_info -->
+    <string name="date">Data:</string>
+    <string name="title">Titolo</string>
+    <string name="txn">Txn ID:</string>
+    <string name="view_trans">Visualizza i dettagli della transazione</string>
+    <string name="view_block">VISTA IN BLOCKCHAIN</string>
+    <string name="desc">Descrizione:</string>
+
+    <!-- View_Noty -->
+    <string name="msg">Messaggio</string>
+    <string name="sub">Soggetto :</string>
+    <string name="body">Corpo del messaggio :</string>
+
+    <!-- View_Wallet -->
+    <string name="wallet_name">Nome portafoglio</string>
+    <string name="bal">Saldo totale</string>
+    <string name="trans">Le tue transazioni</string>
+    <string name="no_trans">Nessuna transazione ancora.</string>
+    <string name="your_trans">Le tue transazioni verranno visualizzate qui.</string>
+
+    <!-- View_Wallet -->
+    <string name="enter_rec_code">Immettere il codice di ripristino</string>
+    <string name="enter_reset">Inserisci il codice di ripristino inviato alla tua posta</string>
+    <string name="resend">Codice di rispedizione</string>
+
+
+    <!-- Backup_Phrase -->
+    <string name="phrase">Frase di backup</string>
+    <string name="backup_note">Copia e archivia in modo sicuro la tua frase di backup. Agisce come una chiave per recuperare i tuoi fondi se non riesci ad accedere al tuo dispositivo. Non può essere recuperato in caso di smarrimento.</string>
+    <string name="do_not">Stai attento! Non condividere la tua frase di backup con nessuno in quanto può essere utilizzata per accedere ai tuoi fondi.</string>
+
+    <!--Bottom_Sheet -->
+    <string name="setup">Come vuoi configurare il tuo portafoglio?</string>
+    <string name="select_option">Seleziona un'opzione in base alle tue esigenze e ai requisiti di sicurezza. La configurazione avanzata fornisce una protezione avanzata e richiederà passaggi aggiuntivi nel processo di firma.</string>
+    <string name="self_mng">Hot Wallet autogestito</string>
+    <string name="c_wallet">Crea un portafoglio per i trasferimenti quotidiani e piccoli saldi</string>
+    <string name="next">Il prossimo</string>
+
+
+    <string-array name="country_list" formatted="false" translatable="false">
+        <item>Country</item>
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>British Virgin Islands</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Canary Islands</item>
+        <item>Cape Verde</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Ceuta and Melilla</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo [DRC]</item>
+        <item>Congo [Republic]</item>
+        <item>Costa Rica</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Curaçao</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Côte d’Ivoire</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        <item>Europe</item>
+        <item>Faroe Islands</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>French Guiana</item>
+        <item>French Polynesia</item>
+        <item>Gabon</item>
+        <item>Gambia</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Greece</item>
+        <item>Greenland</item>
+        <item>Grenada</item>
+        <item>Guadeloupe</item>
+        <item>Guam</item>
+        <item>Guatemala</item>
+        <item>Guernsey</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Hong Kong</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Isle of Man</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jersey</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kiribati</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Laos</item>
+        <item>Latin America</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Macau</item>
+        <item>Macedonia [FYROM]</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marshall Islands</item>
+        <item>Martinique</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mayotte</item>
+        <item>Mexico</item>
+        <item>Micronesia</item>
+        <item>Moldova</item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montenegro</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Myanmar [Burma]</item>
+        <item>Namibia</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>New Caledonia</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>North Korea</item>
+        <item>Northern Mariana Islands</item>
+        <item>Norway</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>Palestine</item>
+        <item>Panama</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Puerto Rico</item>
+        <item>Qatar</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>Réunion</item>
+        <item>Saint Barthélemy</item>
+        <item>Saint Kitts and Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Saint Martin</item>
+        <item>Saint Vincent and the Grenadines</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Saudi Arabia</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Sint Maarten</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Solomon Islands</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Korea</item>
+        <item>South Sudan</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>Suriname</item>
+        <item>Swaziland</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>São Tomé and Príncipe</item>
+        <item>Taiwan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>Timor-Leste</item>
+        <item>Togo</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turks and Caicos Islands</item>
+        <item>U.S. Outlying Islands</item>
+        <item>U.S. Virgin Islands</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vanuatu</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Western Sahara</item>
+        <item>Yemen</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+        <item>Åland Islands</item>
+    </string-array>
+    <string-array name="coins" formatted="false" translatable="false">
+        <item>Bitcoin (BTC)</item>
+        <item>Ethereum (ETH)</item>
+        <item>Bitcoin Cash(BCH)</item>
+        <item>Litecoin (LTC)</item>
+        <item>Monero (XMR)</item>
+        <item>Ripple (XRP)</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Ciao frammento vuoto</string>
+    <string name="title_activity_basic">Di base</string>
+
+    <!--Cancel_2fa -->
+    <string name="cancel_2fa">Disattiva l'autenticatore a 2 fattori</string>
+    <string name="enter_2fa">Inserisci il tuo codice Google Authenticator</string>
+    <string name="enter_fa">Inserisci il codice di Google Authenticator</string>
+
+    <!--Create_2fa -->
+    <string name="create_2fa">Dettagli dell'autenticatore a 2 fattori</string>
+    <string name="install">Installa e avvia Google Authenticator sul tuo telefono. Puoi scaricarlo da iPhone App Store o Google Play</string>
+    <string name="use">Utilizza Google Authenticator per scansionare il codice QR di seguito</string>
+    <string name="connect">Puoi anche collegare la tua app Google Authenticator con il codice sottostante</string>
+    <string name="your_code">Il tuo codice</string>
+    <string name="type_2fa">Inserisci il tuo codice di autenticazione a due fattori di seguito</string>
+    <string name="digit">Immettere il codice a 6 cifre</string>
+    <string name="back">Torna indietro</string>
+
+    <!--New_wallet -->
+    <string name="create_new">Crea nuovo portafoglio</string>
+    <string name="name_wallet">Assegna un nome al tuo portafoglio e crittografalo con una password.</string>
+    <string name="w_pwd">Password del portafoglio</string>
+    <string name="w_pwd2">Conferma la password del portafoglio</string>
+    <string name="w_note">La password del portafoglio sarà richiesta per inviare le transazioni</string>
+    <string name="trans_h">STORIA DELLE TRANSAZIONI</string>
+
+    <!--Change Password -->
+    <string name="new_p">Inserisci la tua nuova password</string>
+    <string name="current_p">Inserisci la tua password attuale</string>
+    <string name="cp">Cambia la password</string>
+    <string name="cp2">Password attuale</string>
+    <string name="np">nuova password</string>
+    <string name="cnp">Conferma la nuova password</string>
+
+    <!--Home-->
+    <string name="portfolio">PORTAFOGLIO</string>
+    <string name="tpv">Valore totale del portafoglio</string>
+    <string name="nw">Nuovo portafoglio</string>
+    <string name="your_wallet">Il tuo portafoglio</string>
+    <string name="no_wallet2">Al momento non hai alcun portafoglio</string>
+    <string name="show_all">Mostra tutti i portafogli</string>
+    <string name="search">Cerca portafogli</string>
+    <string name="all_coins">Tutte le monete</string>
+
+    <!--Read-->
+    <string name="msgs">Messaggi</string>
+    <string name="unread">Non letto</string>
+    <string name="read">Leggere</string>
+
+    <!--Review-->
+    <string name="w_add">Indirizzo del portafoglio</string>
+    <string name="amount">Quantità</string>
+    <string name="review">Revisione</string>
+
+    <!--Profile_View-->
+    <string name="profile_info">Informazioni del profilo</string>
+    <string name="fullname">Nome e cognome</string>
+    <string name="country">Nazione</string>
+    <string name="close">STRING TRANSLATING ERROR</string>
+
+    <!--Sent-->
+    <string name="success">STRING TRANSLATING ERROR</string>
+    <string name="done">STRING TRANSLATING ERROR</string>
+
+    <!--Set_new-->
+    <string name="new_p2">STRING TRANSLATING ERROR</string>
+    <string name="save">STRING TRANSLATING ERROR</string>
+    <string name="enter_np">STRING TRANSLATING ERROR</string>
+    <string name="nwp">STRING TRANSLATING ERROR</string>
+
+    <!--Validate-->
+    <string name="val">STRING TRANSLATING ERROR</string>
+    <string name="enter_phrase">STRING TRANSLATING ERROR</string>
+    <string name="henter">STRING TRANSLATING ERROR</string>
+    <string name="cont">STRING TRANSLATING ERROR</string>
+    <string name="v_2fa">STRING TRANSLATING ERROR</string>
+    <string name="enter_email">STRING TRANSLATING ERROR</string>
+    <string name="vmail">STRING TRANSLATING ERROR</string>
+    <string name="i_code">STRING TRANSLATING ERROR</string>
+
+
+    <!--select_lang-->
+    <string name="select_lang">STRING TRANSLATING ERROR</string>
+
+    <!--new-->
+    <string name="home">STRING TRANSLATING ERROR</string>
+    <string name="coins">STRING TRANSLATING ERROR</string>
+    <string name="activity">STRING TRANSLATING ERROR</string>
+    <string name="settings">STRING TRANSLATING ERROR</string>
+    <string name="log">STRING TRANSLATING ERROR</string>
+    <string name="send2">STRING TRANSLATING ERROR</string>
+    <string name="receive">STRING TRANSLATING ERROR</string>
+    <string name="create2">STRING TRANSLATING ERROR</string>
+    <string name="crt">STRING TRANSLATING ERROR</string>
+    <string name="log2">STRING TRANSLATING ERROR</string>
+    <string name="recc">STRING TRANSLATING ERROR</string>
+    <string name="s_lang">STRING TRANSLATING ERROR</string>
+
+
+    <!--new2-->
+    <string name="def">STRING TRANSLATING ERROR</string>
+    <string name="sc">STRING TRANSLATING ERROR</string>
+    <string name="usd">STRING TRANSLATING ERROR</string>
+    <string name="euro">STRING TRANSLATING ERROR</string>
+    <string name="sterling">STRING TRANSLATING ERROR</string>
+    <string name="yen">STRING TRANSLATING ERROR</string>
+    <string name="kyc">STRING TRANSLATING ERROR</string>
+    <string name="otc">STRING TRANSLATING ERROR</string>
+
+    <string name="fname">STRING TRANSLATING ERROR</string>
+    <string name="dob">STRING TRANSLATING ERROR</string>
+    <string name="ntn">STRING TRANSLATING ERROR</string>
+    <string name="id">STRING TRANSLATING ERROR</string>
+    <string name="idn">STRING TRANSLATING ERROR</string>
+    <string name="ra">STRING TRANSLATING ERROR</string>
+    <string name="mn">STRING TRANSLATING ERROR</string>
+    <string name="otc_btn">STRING TRANSLATING ERROR</string>
+
+    <string name="otc2">STRING TRANSLATING ERROR</string>
+    <string name="att">STRING TRANSLATING ERROR</string>
+    <string name="voa">STRING TRANSLATING ERROR</string>
+    <string name="qup">STRING TRANSLATING ERROR</string>
+    <string name="ni">STRING TRANSLATING ERROR</string>
+    <string name="dl">STRING TRANSLATING ERROR</string>
+    <string name="ip">STRING TRANSLATING ERROR</string>
+    <string name="error_msg">STRING TRANSLATING ERROR</string>
+    <string name="request">STRING TRANSLATING ERROR</string>
+
+    <string name="loan">STRING TRANSLATING ERROR</string>
+    <string name="cmp">STRING TRANSLATING ERROR</string>
+    <string name="ln2">STRING TRANSLATING ERROR</string>
+    <string name="ln3">STRING TRANSLATING ERROR</string>
+    <string name="web">STRING TRANSLATING ERROR</string>
+    <string name="tob">STRING TRANSLATING ERROR</string>
+    <string name="pos">STRING TRANSLATING ERROR</string>
+    <string name="loan2">STRING TRANSLATING ERROR</string>
+    <string name="psize">STRING TRANSLATING ERROR</string>
+    <string name="bd">STRING TRANSLATING ERROR</string>
+    <string name="ex">STRING TRANSLATING ERROR</string>
+    <string name="ico">STRING TRANSLATING ERROR</string>
+    <string name="bw">STRING TRANSLATING ERROR</string>
+    <string name="cu">STRING TRANSLATING ERROR</string>
+    <string name="cp3">STRING TRANSLATING ERROR</string>
+    <string name="ln">STRING TRANSLATING ERROR</string>
+    <string name="sc2">STRING TRANSLATING ERROR</string>
+    <string name="tf">STRING TRANSLATING ERROR</string>
+    <string name="en">STRING TRANSLATING ERROR</string>
+    <string name="zh">STRING TRANSLATING ERROR</string>
+    <string name="ar">STRING TRANSLATING ERROR</string>
+    <string name="pt">STRING TRANSLATING ERROR</string>
+    <string name="it">STRING TRANSLATING ERROR</string>
+    <string name="fr">STRING TRANSLATING ERROR</string>
+    <string name="ko">STRING TRANSLATING ERROR</string>
+    <string name="de">STRING TRANSLATING ERROR</string>
+    <string name="ja">STRING TRANSLATING ERROR</string>
+    <string name="nl">STRING TRANSLATING ERROR</string>
+    <string name="es">STRING TRANSLATING ERROR</string>
+    <string name="ru">STRING TRANSLATING ERROR</string>
+    <string name="wh">STRING TRANSLATING ERROR</string>
+    <string name="ld">STRING TRANSLATING ERROR</string>
+    <string name="td">STRING TRANSLATING ERROR</string>
+    <string name="alc">STRING TRANSLATING ERROR</string>
+    <string name="status">STRING TRANSLATING ERROR</string>
+    <string name="new_request">STRING TRANSLATING ERROR</string>
+    <string name="lrh">STRING TRANSLATING ERROR</string>
+    <string name="rtt">STRING TRANSLATING ERROR</string>
+    <string name="note1">STRING TRANSLATING ERROR</string>
+    <string name="note2">STRING TRANSLATING ERROR</string>
+    <string name="note3">STRING TRANSLATING ERROR</string>
+    <string name="note4">STRING TRANSLATING ERROR</string>
+    <string name="note5">STRING TRANSLATING ERROR</string>
+    <string name="note6">STRING TRANSLATING ERROR</string>
+    <string name="no_otc">STRING TRANSLATING ERROR</string>
+    <string name="no_loan">STRING TRANSLATING ERROR</string>
+    <string name="no_int">STRING TRANSLATING ERROR</string>
+    <string name="tfh">STRING TRANSLATING ERROR</string>
+    <string name="wn">STRING TRANSLATING ERROR</string>
+    <string name="tac">STRING TRANSLATING ERROR</string>
+
+
+    <string name="from">STRING TRANSLATING ERROR</string>
+    <string name="to">STRING TRANSLATING ERROR</string>
+    <string name="sh">STRING TRANSLATING ERROR</string>
+    <string name="ns">STRING TRANSLATING ERROR</string>
+    <string name="swc">STRING TRANSLATING ERROR</string>
+    <string name="sctw">STRING TRANSLATING ERROR</string>
+    <string name="stc">STRING TRANSLATING ERROR</string>
+    <string name="scts">STRING TRANSLATING ERROR</string>
+    <string name="stake">STRING TRANSLATING ERROR</string>
+   <string name="swc2">STRING TRANSLATING ERROR</string>
+    <string name="mfee">STRING TRANSLATING ERROR</string>
+    <string name="scte">STRING TRANSLATING ERROR</string>
+    <string name="sth">STRING TRANSLATING ERROR</string>
+    <string name="nst">STRING TRANSLATING ERROR</string>
+
+
+</resources>

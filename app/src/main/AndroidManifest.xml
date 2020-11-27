@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    android:targetSandboxVersion="1"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.mobile.linkwallet">
+
+    <dist:module dist:instant="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launchers"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@mipmap/ic_launcher_round"
+
+
+        android:theme="@style/AppTheme"
+       >
+        <activity android:name=".Stake_main"></activity>
+        <activity android:name=".Stake" />
+        <activity android:name=".Swap_main" />
+        <activity android:name=".swap_to" />
+        <activity android:name=".Swap" />
+        <activity android:name=".Service_three" />
+        <activity android:name=".Service_two" />
+        <activity android:name=".Service_one" />
+        <activity android:name=".Recover_Password" />
+        <activity android:name=".Transaction_info" />
+        <activity android:name=".Floating" />
+        <activity android:name=".New_Wallet" />
+        <activity android:name=".Select_coin" />
+        <activity android:name=".show_all" />
+        <activity android:name=".Pre_loan" />
+        <activity android:name=".Pre_otc" />
+        <activity android:name=".Otc_Trade" />
+        <activity android:name=".Loan" />
+        <activity android:name=".trade_form" />
+        <activity android:name=".trade_final" />
+        <activity android:name=".Loan_Final" />
+        <activity android:name=".Loan_Form" />
+        <activity android:name=".Create_2fa" />
+        <activity android:name=".Change_Password" />
+        <activity android:name=".View_Profile" />
+        <activity android:name=".View_Noty" />
+        <activity android:name=".Email_Ver" />
+        <activity android:name=".Profile" />
+        <activity android:name=".New" />
+        <activity android:name=".New_lang" />
+        <activity android:name=".Receive" />
+        <activity android:name=".View_Wallet" />
+        <activity android:name=".Setting" />
+        <activity android:name=".Home" />
+        <activity android:name=".New_Lang" />
+        <activity android:name=".Landing" />
+        <activity android:name=".Login" />
+        <activity android:name=".Signup" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

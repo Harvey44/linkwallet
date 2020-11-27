@@ -1,0 +1,618 @@
+<resources>
+    <string name="app_name">STRING TRANSLATING ERROR</string>
+    <string name="wlc">STRING TRANSLATING ERROR</string>
+    <string name="landing">STRING TRANSLATING ERROR</string>
+    <string name="landing2">STRING TRANSLATING ERROR</string>
+    <string name="landing3">STRING TRANSLATING ERROR</string>
+    <string name="signupc">STRING TRANSLATING ERROR</string>
+    <string name="rec">STRING TRANSLATING ERROR</string>
+    <string name="signup">STRING TRANSLATING ERROR</string>
+    <string name="sign2">STRING TRANSLATING ERROR</string>
+    <string name="policy">STRING TRANSLATING ERROR</string>
+    <string name="sign3">STRING TRANSLATING ERROR</string>
+    <string name="hlog">STRING TRANSLATING ERROR</string>
+    <string name="login1">STRING TRANSLATING ERROR</string>
+    <string name="login2">STRING TRANSLATING ERROR</string>
+    <string name="login3">STRING TRANSLATING ERROR</string>
+    <string name="notyfy">STRING TRANSLATING ERROR</string>
+    <string name="share_app4">STRING TRANSLATING ERROR</string>
+    <string name="about4">STRING TRANSLATING ERROR</string>
+    <string name="share4">STRING TRANSLATING ERROR</string>
+    <string name="ve">STRING TRANSLATING ERROR</string>
+    <string name="ve2">STRING TRANSLATING ERROR</string>
+    <string name="ve3">STRING TRANSLATING ERROR</string>
+    <string name="rc">STRING TRANSLATING ERROR</string>
+    <string name="see_all">STRING TRANSLATING ERROR</string>
+    <string name="cb">STRING TRANSLATING ERROR</string>
+    <string name="fc">STRING TRANSLATING ERROR</string>
+    <string name="ys">STRING TRANSLATING ERROR</string>
+    <string name="yr">STRING TRANSLATING ERROR</string>
+    <string name="itn">STRING TRANSLATING ERROR</string>
+    <string name="emt">STRING TRANSLATING ERROR</string>
+    <string name="proceed">STRING TRANSLATING ERROR</string>
+    <string name="sp">STRING TRANSLATING ERROR</string>
+    <string name="sending">STRING TRANSLATING ERROR</string>
+    <string name="cv">STRING TRANSLATING ERROR</string>
+    <string name="pos2">STRING TRANSLATING ERROR</string>
+    <string name="done2">STRING TRANSLATING ERROR</string>
+    <string name="cl">STRING TRANSLATING ERROR</string>
+    <string name="swp">STRING TRANSLATING ERROR</string>
+    <string name="serv_one">STRING TRANSLATING ERROR</string>
+    <string name="serv_two">STRING TRANSLATING ERROR</string>
+    <string name="serv_three">STRING TRANSLATING ERROR</string>
+    <string name="csv">STRING TRANSLATING ERROR</string>
+    <string name="csw">STRING TRANSLATING ERROR</string>
+    <string name="serv">STRING TRANSLATING ERROR</string>
+    <string name="otc_one">STRING TRANSLATING ERROR</string>
+    <string name="fs">빠른 정착</string>
+    <string name="fsn">타사 없음, 번거 로움 없음</string>
+    <string name="ptd">맞춤형 거래</string>
+    <string name="ptdn">1-1 채팅 지원</string>
+    <string name="loan_one">암호화 대출에 즉시 액세스</string>
+    <string name="qd">신용 한도</string>
+    <string name="qdn">더 나은 신용 한도를 위해 거래 잔액을 늘리십시오.</string>
+    <string name="ic">즉시 크레딧</string>
+    <string name="icn">신용 수표 없음</string>
+    <string name="swap">코인 스왑</string>
+    <string name="sf">다음에서 스왑</string>
+    <string name="st">다음으로 교체</string>
+
+
+    <string name="header">지금 <b> 종량제 </ b> 핫 지갑을 만드십시오. 계약이 필요하지 않습니다.</string>
+    <string name="terms">등록하면 Onchain Custodian \ 's에 동의하는 것입니다.</string>
+    <string name="terms2">이용 약관 & amp; 가격</string>
+    <string name="reg_already">이미 계정이 있습니까?</string>
+    <string name="reg_logintext">로그인</string>
+    <string name="currency">$</string>
+    <string name="help">도움말 & amp; 지원하다</string>
+    <string name="create">지갑을 만들려면 <u> 여기를 클릭 </ u>하세요!</string>
+
+    <!-- Reg   -->
+    <string name="hf">이름</string>
+    <string name="hl">성</string>
+    <string name="hemail">이메일 주소 (확인해야 함)</string>
+    <string name="hp">암호</string>
+    <string name="hp2">비밀번호 확인</string>
+
+    <string name="select">국가를 선택하십시오</string>
+
+    <!-- Login  -->
+
+    <string name="need">계정이 필요?</string>
+    <string name="sign">가입 |</string>
+    <string name="nhelp">도움이 필요하다?</string>
+    <string name="log_email">이메일 주소</string>
+    <string name="forgot">비밀번호를 잊으 셨나요?</string>
+    <string name="login">로그인</string>
+
+    <!-- Receive  -->
+    <string name="share">지불을 받으려면 지갑 주소를 공유하십시오.</string>
+    <string name="share2">지갑 주소 공유 :</string>
+    <string name="copy">클립 보드에 복사</string>
+    <string name="share3">공유 주소</string>
+    <string name="scan">QR 코드 스캔</string>
+
+    <!-- Forgot Password  -->
+    <string name="forgot_p">비밀번호를 잊으 셨나요</string>
+    <string name="submit">제출</string>
+    <string name="forgot_dets">복구 코드가 포함 된 이메일을 받으려면 이메일 주소를 입력하세요.</string>
+    <string name="back_login">로그인으로 돌아 가기</string>
+
+    <!-- Select coin  -->
+    <string name="select_coin">코인 선택</string>
+
+    <!-- Send  -->
+    <string name="trans_sum">거래 요약</string>
+    <string name="w_name">지갑 이름 :</string>
+    <string name="send_amt">금액 :</string>
+    <string name="rec_add">수신 주소 :</string>
+    <string name="trans_fee">거래 수수료</string>
+    <string name="send">보내다</string>
+    <string name="cancel">취소</string>
+
+    <!-- Setting  -->
+    <string name="change_pwd">여기에서 비밀번호를 변경하세요.</string>
+    <string name="change_pwd2">비밀번호 변경</string>
+    <string name="build">1.0.0 (빌드 1)</string>
+    <string name="app_v">앱 버전</string>
+    <string name="about">온 체인 관리 서비스에 대해 알아보기</string>
+    <string name="about2">Onchain Custodian 정보</string>
+    <string name="fback">Onchain Custodian에 대한 피드백 보내기</string>
+    <string name="share_app">Onchain Custodian 앱 공유</string>
+    <string name="fback2">피드백 보내기</string>
+    <string name="share_app2">Onchain Custodian 앱을 친구 및 가족에게 공유</string>
+    <string name="get_help">도움과 필요한 정보 얻기</string>
+    <string name="view_info">여기에서 개인 정보를 확인하세요.</string>
+    <string name="two_fa">2FA 활성화 또는 비활성화로 전환</string>
+    <string name="enable">2 단계 인증 활성화</string>
+    <string name="backup">보안 강화를위한 백업 문구 생성</string>
+    <string name="backup2">백업 문구 만들기</string>
+    <string name="account">계정 설정</string>
+    <string name="personal">개인 정보</string>
+    <string name="pref">환경 설정</string>
+    <string name="retrieve">검색</string>
+    <string name="logout">로그 아웃</string>
+    <string name="lang">언어 변경</string>
+    <string name="lang2">적합한 언어를 선택하십시오</string>
+    <string name="curr">통화 변경</string>
+    <string name="curr2">대체 통화 선택</string>
+    <!-- Show_all -->
+    <string name="all">모든 지갑</string>
+    <string name="no_wallet">사용 가능한 지갑 없음</string>
+    <string name="new_wallet">새 지갑을 만들려면 여기를 클릭하십시오</string>
+
+    <!-- Trans_info -->
+    <string name="date">데이트:</string>
+    <string name="title">표제</string>
+    <string name="txn">Txn ID :</string>
+    <string name="view_trans">거래 세부 정보보기</string>
+    <string name="view_block">블록 체인에서보기</string>
+    <string name="desc">기술:</string>
+
+    <!-- View_Noty -->
+    <string name="msg">메시지</string>
+    <string name="sub">주제 :</string>
+    <string name="body">메시지 본문 :</string>
+
+    <!-- View_Wallet -->
+    <string name="wallet_name">지갑 이름</string>
+    <string name="bal">전체 균형</string>
+    <string name="trans">거래</string>
+    <string name="no_trans">아직 거래가 없습니다.</string>
+    <string name="your_trans">거래 내역이 여기에 표시됩니다.</string>
+
+    <!-- View_Wallet -->
+    <string name="enter_rec_code">복구 코드 입력</string>
+    <string name="enter_reset">메일로 전송 된 재설정 코드를 입력하세요.</string>
+    <string name="resend">코드 재전송</string>
+
+
+    <!-- Backup_Phrase -->
+    <string name="phrase">백업 문구</string>
+    <string name="backup_note">백업 문구를 복사하고 안전하게 저장하십시오. 기기에 액세스 할 수없는 경우 자금을 복구하는 열쇠 역할을하며 분실시 복구 할 수 없습니다.</string>
+    <string name="do_not">조심해! 자금에 액세스하는 데 사용될 수 있으므로 백업 문구를 다른 사람과 공유하지 마십시오.</string>
+
+    <!--Bottom_Sheet -->
+    <string name="setup">지갑을 어떻게 설정 하시겠습니까?</string>
+    <string name="select_option">필요와 보안 요구 사항에 따라 옵션을 선택하십시오. 고급 설정은 향상된 보안을 제공하며 서명 프로세스에서 추가 단계가 필요합니다.</string>
+    <string name="self_mng">자체 관리 형 핫 월렛</string>
+    <string name="c_wallet">일상적인 이체 및 소액 잔액을위한 지갑 만들기</string>
+    <string name="next">다음</string>
+
+
+    <string-array name="country_list" formatted="false" translatable="false">
+        <item>Country</item>
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>British Virgin Islands</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Canary Islands</item>
+        <item>Cape Verde</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Ceuta and Melilla</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo [DRC]</item>
+        <item>Congo [Republic]</item>
+        <item>Costa Rica</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Curaçao</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Côte d’Ivoire</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        <item>Europe</item>
+        <item>Faroe Islands</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>French Guiana</item>
+        <item>French Polynesia</item>
+        <item>Gabon</item>
+        <item>Gambia</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Greece</item>
+        <item>Greenland</item>
+        <item>Grenada</item>
+        <item>Guadeloupe</item>
+        <item>Guam</item>
+        <item>Guatemala</item>
+        <item>Guernsey</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Hong Kong</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Isle of Man</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jersey</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kiribati</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Laos</item>
+        <item>Latin America</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Macau</item>
+        <item>Macedonia [FYROM]</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marshall Islands</item>
+        <item>Martinique</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mayotte</item>
+        <item>Mexico</item>
+        <item>Micronesia</item>
+        <item>Moldova</item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montenegro</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Myanmar [Burma]</item>
+        <item>Namibia</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>New Caledonia</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>North Korea</item>
+        <item>Northern Mariana Islands</item>
+        <item>Norway</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>Palestine</item>
+        <item>Panama</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Puerto Rico</item>
+        <item>Qatar</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>Réunion</item>
+        <item>Saint Barthélemy</item>
+        <item>Saint Kitts and Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Saint Martin</item>
+        <item>Saint Vincent and the Grenadines</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Saudi Arabia</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Sint Maarten</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Solomon Islands</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Korea</item>
+        <item>South Sudan</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>Suriname</item>
+        <item>Swaziland</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>São Tomé and Príncipe</item>
+        <item>Taiwan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>Timor-Leste</item>
+        <item>Togo</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turks and Caicos Islands</item>
+        <item>U.S. Outlying Islands</item>
+        <item>U.S. Virgin Islands</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vanuatu</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Western Sahara</item>
+        <item>Yemen</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+        <item>Åland Islands</item>
+    </string-array>
+    <string-array name="coins" formatted="false" translatable="false">
+        <item>Bitcoin (BTC)</item>
+        <item>Ethereum (ETH)</item>
+        <item>Bitcoin Cash(BCH)</item>
+        <item>Litecoin (LTC)</item>
+        <item>Monero (XMR)</item>
+        <item>Ripple (XRP)</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">안녕하세요 빈 조각</string>
+    <string name="title_activity_basic">기본</string>
+
+    <!--Cancel_2fa -->
+    <string name="cancel_2fa">2-Factor Authenticator 비활성화</string>
+    <string name="enter_2fa">Google OTP 코드를 입력하세요.</string>
+    <string name="enter_fa">Google OTP 코드 입력</string>
+
+    <!--Create_2fa -->
+    <string name="create_2fa">2 단계 인증 기 세부 정보</string>
+    <string name="install">휴대 전화에 Google Authenticator를 설치하고 실행하세요. iPhone App Store 또는 Google play에서 다운로드 할 수 있습니다.</string>
+    <string name="use">Google Authenticator를 사용하여 아래 QR 코드를 스캔하세요.</string>
+    <string name="connect">아래 코드로 Google Authenticator 앱을 연결할 수도 있습니다.</string>
+    <string name="your_code">귀하의 코드</string>
+    <string name="type_2fa">아래에 2 단계 인증 코드를 입력하세요.</string>
+    <string name="digit">6 자리 코드 입력</string>
+    <string name="back">돌아 가기</string>
+
+    <!--New_wallet -->
+    <string name="create_new">새 지갑 생성</string>
+    <string name="name_wallet">지갑의 이름을 지정하고 비밀번호로 지갑을 암호화하십시오.</string>
+    <string name="w_pwd">지갑 비밀번호</string>
+    <string name="w_pwd2">지갑 비밀번호 확인</string>
+    <string name="w_note">거래를 보내려면 지갑 비밀번호가 필요합니다.</string>
+    <string name="trans_h">거래 내역</string>
+
+    <!--Change Password -->
+    <string name="new_p">새 비밀번호를 입력하세요</string>
+    <string name="current_p">현재 비밀번호를 입력하세요</string>
+    <string name="cp">비밀번호 변경</string>
+    <string name="cp2">현재 비밀번호</string>
+    <string name="np">새 비밀번호</string>
+    <string name="cnp">새 암호를 확인합니다</string>
+
+    <!--Home-->
+    <string name="portfolio">포트폴리오</string>
+    <string name="tpv">총 포트폴리오 가치</string>
+    <string name="nw">새 지갑</string>
+    <string name="your_wallet">지갑</string>
+    <string name="no_wallet2">현재 지갑이 없습니다.</string>
+    <string name="show_all">모든 지갑보기</string>
+    <string name="search">지갑 검색</string>
+    <string name="all_coins">모든 동전</string>
+
+    <!--Read-->
+    <string name="msgs">메시지</string>
+    <string name="unread">읽히지 않는</string>
+    <string name="read">읽다</string>
+
+    <!--Review-->
+    <string name="w_add">지갑 주소</string>
+    <string name="amount">양</string>
+    <string name="review">리뷰</string>
+
+    <!--Profile_View-->
+    <string name="profile_info">프로필 정보</string>
+    <string name="fullname">성명</string>
+    <string name="country">국가</string>
+    <string name="close">닫기</string>
+
+    <!--Sent-->
+    <string name="success">거래 성공 !!</string>
+    <string name="done">끝난</string>
+
+    <!--Set_new-->
+    <string name="new_p2">새 비밀번호 생성</string>
+    <string name="save">계속하려면 새 로그인 비밀번호와 지갑 비밀번호를 저장하세요.</string>
+    <string name="enter_np">새로운 비밀번호를 입력하세요</string>
+    <string name="nwp">새 지갑 비밀번호</string>
+
+    <!--Validate-->
+    <string name="val">백업 문구 확인</string>
+    <string name="enter_phrase">자금 및 거래를 복구하려면 공백과 함께 12 개의 백업 문구를 입력하십시오.</string>
+    <string name="henter">백업 문구 입력 (12 단어)</string>
+    <string name="cont">계속하다</string>
+    <string name="v_2fa">2FA (Google Authenticator) 확인</string>
+    <string name="enter_email">이메일 주소로 전송 된 인증 코드를 입력하세요.</string>
+    <string name="vmail">이메일 확인 코드 입력</string>
+    <string name="i_code">입력 확인 코드</string>
+
+
+    <!--select_lang-->
+    <string name="select_lang">언어 선택</string>
+
+    <!--new-->
+    <string name="home">집</string>
+    <string name="coins">코인</string>
+    <string name="activity">활동</string>
+    <string name="settings">설정</string>
+    <string name="log">로그 아웃</string>
+    <string name="send2">보내다</string>
+    <string name="receive">받다</string>
+    <string name="create2">창조하다</string>
+    <string name="crt">계정 만들기</string>
+    <string name="log2">로그인</string>
+    <string name="recc">자금 회수</string>
+    <string name="s_lang">언어 선택</string>
+
+
+    <!--new2-->
+    <string name="def">영어</string>
+    <string name="sc">통화 선택</string>
+    <string name="usd">미국 달러</string>
+    <string name="euro">유로</string>
+    <string name="sterling">파운드 스털링</string>
+    <string name="yen">중국 위안</string>
+    <string name="kyc">"당신의 \ n 고객을 아십시오"</string>
+    <string name="otc">-OTC 거래 양식</string>
+
+    <string name="fname">귀하의 성명</string>
+    <string name="dob">생년월일</string>
+    <string name="ntn">국적</string>
+    <string name="id">신원 유형</string>
+    <string name="idn">식별 번호</string>
+    <string name="ra">거주지 주소</string>
+    <string name="mn">휴대폰 번호</string>
+    <string name="otc_btn">양식 제출</string>
+
+    <string name="otc2">"OTC 거래 \ n 양식"</string>
+    <string name="att">거래 할 자산</string>
+    <string name="voa">자산의 양</string>
+    <string name="qup">가격 견적</string>
+    <string name="ni">국가 정체성</string>
+    <string name="dl">운전 면허증</string>
+    <string name="ip">국제 여권</string>
+    <string name="error_msg">필수입니다</string>
+    <string name="request">요청이 성공적으로 전송되었습니다.</string>
+
+    <string name="loan">"대출 요청 \ n 양식"</string>
+    <string name="cmp">회사</string>
+    <string name="ln2">대출 신청</string>
+    <string name="ln3">최근 뉴스</string>
+    <string name="web">웹 사이트</string>
+    <string name="tob">사업의 종류</string>
+    <string name="pos">제품 / 서비스</string>
+    <string name="loan2">대출금</string>
+    <string name="psize">포트폴리오 크기</string>
+    <string name="bd">브로커 딜러</string>
+    <string name="ex">교환</string>
+    <string name="ico">ICO</string>
+    <string name="bw">비즈니스 지갑</string>
+    <string name="cu">보관</string>
+    <string name="cp3">맞춤 프로젝트</string>
+    <string name="ln">차관</string>
+    <string name="sc2">국가를 선택하십시오</string>
+    <string name="tf">OTC 무역</string>
+    <string name="en">영어</string>
+    <string name="zh">중국말</string>
+    <string name="ar">아라비아 말</string>
+    <string name="pt">포르투갈 인</string>
+    <string name="it">이탈리아 사람</string>
+    <string name="fr">프랑스 국민</string>
+    <string name="ko">한국어</string>
+    <string name="de">독일 사람</string>
+    <string name="ja">일본어</string>
+    <string name="nl">네덜란드 사람</string>
+    <string name="es">스페인의</string>
+    <string name="ru">러시아인</string>
+    <string name="wh">우리가 돕는 방법</string>
+    <string name="ld">대출 제안은 현재 포트폴리오 가치를 기반으로합니다. 추가 제안은 귀하의 포트폴리오 가치가 인정되는 즉시 자동으로 제공됩니다.</string>
+    <string name="td">Onchain Custodian은 우수한 서비스, 낮은 수수료, 다양한 자금 조달 옵션 및 엄격한 보안 표준 덕분에 OTC 거래를위한 최고의 장소 중 하나로 지속적으로 선정되었습니다. 양식을 작성하고 시작하십시오.</string>
+    <string name="alc">모든 동전</string>
+    <string name="status">STRING TRANSLATING ERROR</string>
+    <string name="new_request">STRING TRANSLATING ERROR</string>
+    <string name="lrh">STRING TRANSLATING ERROR</string>
+    <string name="rtt">STRING TRANSLATING ERROR</string>
+    <string name="note1">STRING TRANSLATING ERROR</string>
+    <string name="note2">STRING TRANSLATING ERROR</string>
+    <string name="note3">STRING TRANSLATING ERROR</string>
+    <string name="note4">STRING TRANSLATING ERROR</string>
+    <string name="note5">STRING TRANSLATING ERROR</string>
+    <string name="note6">STRING TRANSLATING ERROR</string>
+    <string name="no_otc">STRING TRANSLATING ERROR</string>
+    <string name="no_loan">STRING TRANSLATING ERROR</string>
+    <string name="no_int">STRING TRANSLATING ERROR</string>
+    <string name="tfh">STRING TRANSLATING ERROR</string>
+    <string name="wn">STRING TRANSLATING ERROR</string>
+    <string name="tac">STRING TRANSLATING ERROR</string>
+
+
+    <string name="from">STRING TRANSLATING ERROR</string>
+    <string name="to">STRING TRANSLATING ERROR</string>
+    <string name="sh">STRING TRANSLATING ERROR</string>
+    <string name="ns">STRING TRANSLATING ERROR</string>
+    <string name="swc">STRING TRANSLATING ERROR</string>
+    <string name="sctw">STRING TRANSLATING ERROR</string>
+    <string name="stc">STRING TRANSLATING ERROR</string>
+    <string name="scts">STRING TRANSLATING ERROR</string>
+    <string name="stake">STRING TRANSLATING ERROR</string>
+   <string name="swc2">STRING TRANSLATING ERROR</string>
+    <string name="mfee">STRING TRANSLATING ERROR</string>
+    <string name="scte">STRING TRANSLATING ERROR</string>
+    <string name="sth">STRING TRANSLATING ERROR</string>
+    <string name="nst">STRING TRANSLATING ERROR</string>
+
+
+</resources>
